@@ -1,0 +1,218 @@
+[
+	{
+		"ID": "1",
+		"Title": "Black Panther: Wakanda Forever",
+		"ReleaseDate": "2022-11-11T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/blackpantherwakandaforever_lob_crd_04.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/rom1020_trl_comp_ilm_v0016.1060.jpg",
+		"TV": false
+	},
+	{
+		"ID": "2",
+		"Title": "Ant-Man And The Wasp: Quantumania",
+		"ReleaseDate": "2023-02-17T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/antman_lob_crd_01.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/fe5wfnmxoay7wvy.jpeg",
+		"TV": false
+	},
+	{
+		"ID": "3",
+		"Title": "Guardians Of The Galaxy Vol. 3",
+		"ReleaseDate": "2023-05-05T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/guardiansofthegalaxyvolume3_lob_crd_01.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/guardiansofthegalaxyvolume3_lob_mas_dsk_01.jpg",
+		"TV": false
+	},
+	{
+		"ID": "4",
+		"Title": "The Marvels",
+		"ReleaseDate": "2023-07-28T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/themarvels_lob_crd_01.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/themarvels_lob_mas_dsk_01.jpg",
+		"TV": false
+	},
+	{
+		"ID": "5",
+		"Title": "Blade",
+		"ReleaseDate": "2023-11-03T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/blade_lob_crd_01.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/blade_com_mas_dsk_01.jpg",
+		"TV": false
+	},
+	{
+		"ID": "6",
+		"Title": "Captain America: New World Order",
+		"ReleaseDate": "2024-05-03T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainamericaneworldorder_lob_crd_01.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainamericaneworldorder_lob_mas_mob_01.jpg",
+		"TV": false
+	},
+	{
+		"ID": "7",
+		"Title": "Thunderbolts",
+		"ReleaseDate": "2024-07-26T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/thunderbolts_lob_crd_01.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/thunderbolts_lob_mas_dsk_01.jpg",
+		"TV": false
+	},
+	{
+		"ID": "8",
+		"Title": "Fantastic Four",
+		"ReleaseDate": "2024-11-08T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/fantasticfour_lob_crd_01.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/fantasticfour_com_mas_dsk_01.jpg",
+		"TV": false
+	},
+	{
+		"ID": "9",
+		"Title": "Avengers: The Kang Dynasty",
+		"ReleaseDate": "2025-05-02T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersthekangdynasty_lob_crd_01.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersthekangdynasty_lob_mas_dsk_01.jpg",
+		"TV": false
+	},
+	{
+		"ID": "10",
+		"Title": "Avengers: Secret Wars",
+		"ReleaseDate": "2025-11-14T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengerssecretwars_lob_crd_01.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengerssecretwars_lob_mas_dsk_01.jpg",
+		"TV": false
+	},
+	{
+		"ID": "11",
+		"Title": "She-Hulk",
+		"ReleaseDate": "2022-08-17T00:00:00Z",
+		"FilmLength": "9",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/shehulk_lob_crd_04.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/shehulk_lob_mas_dsk_04.jpg",
+		"TV": true
+	},
+	{
+		"ID": "12",
+		"Title": "The Guardians of the Galaxy Holiday Special",
+		"ReleaseDate": "2022-12-31T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/gotg-holiday_lob_crd_01.jpg",
+		"Thumbnail": "https://cdn.mos.cms.futurecdn.net/9e9AKni5ZSUsohLVp9KxoF.jpg",
+		"TV": true
+	},
+	{
+		"ID": "13",
+		"Title": "Secret Invasion",
+		"ReleaseDate": "2023-12-31T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/secretinvasion_lob_crd_02.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/secretinvasion_lob_mas_dsk_02.jpg",
+		"TV": true
+	},
+	{
+		"ID": "14",
+		"Title": "Echo",
+		"ReleaseDate": "2023-12-31T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/echo_lob_crd_01.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/echo_lob_mas_dsk_01.jpg",
+		"TV": true
+	},
+	{
+		"ID": "15",
+		"Title": "Loki | Season 2",
+		"ReleaseDate": "2023-12-31T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/loki_lob_crd_02_1.jpg",
+		"Thumbnail": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5DEE8AF36D5BCE34F5B4D49B0B7311C3C726B2C7DEE3F5F97FFC67C64FBC6998/scale?width=1200&aspectRatio=1.78&format=jpeg",
+		"TV": true
+	},
+	{
+		"ID": "16",
+		"Title": "Ironheart",
+		"ReleaseDate": "2023-12-31T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironheart_lob_crd_02.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironheart_lob_mas_dsk_02.jpg",
+		"TV": true
+	},
+	{
+		"ID": "17",
+		"Title": "Agatha: House of Harkness",
+		"ReleaseDate": "2023-12-31T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/agathahouseofharkness_lob_crd_01.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/agathahouseofharkness_lob_mas_dsk_01.jpg",
+		"TV": true
+	},
+	{
+		"ID": "18",
+		"Title": "Daredevil: Born Again",
+		"ReleaseDate": "2024-12-31T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/daredevilbornagain_lob_crd_01.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/daredevilbornagain_lob_mas_mob_01.jpg",
+		"TV": true
+	},
+	{
+		"ID": "19",
+		"Title": "Armor Wars",
+		"ReleaseDate": "2026-12-31T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/armorwars_lob_crd_01.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/armorwars_lob_log_def_01.png",
+		"TV": true
+	},
+	{
+		"ID": "20",
+		"Title": "X-Men '97",
+		"ReleaseDate": "2026-12-31T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/xmen97_lob_crd_01_rev.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/xmen97_lob_mas_dsk_01.jpg",
+		"TV": true
+	},
+	{
+		"ID": "21",
+		"Title": "What if...? | Season 2",
+		"ReleaseDate": "2026-12-31T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/whatif2_lob_crd_01.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/whatif2_lob_mas_dsk_01.jpg",
+		"TV": true
+	},
+	{
+		"ID": "22",
+		"Title": "Spider-Man: Freshman Year",
+		"ReleaseDate": "2026-12-31T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/spider-manfreshmanyear_lob_crd_01.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/spider-manfreshmanyear_lob_mas_mob_01.jpg",
+		"TV": true
+	},
+	{
+		"ID": "23",
+		"Title": "Marvel Zombies",
+		"ReleaseDate": "2026-12-31T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/marvelzombies_lob_crd_01.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/marvelzombies_lob_mas_dsk_01.jpg",
+		"TV": true
+	},
+	{
+		"ID": "24",
+		"Title": "I Am Groot",
+		"ReleaseDate": "2022-08-10T00:00:00Z",
+		"FilmLength": "5",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/iamgroot_lob_crd_03.jpg",
+		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/iamgroot_lob_mas_dsk_03.jpg",
+		"TV": true
+	}
+]
