@@ -1,13 +1,19 @@
 <script>
 	import Movie from './Movie.svelte';
-
+	function custom_sort(a, b) {
+		return (
+			new Date(a.ReleaseDate).getTime() -
+			new Date(b.ReleaseDate).getTime()
+		);
+	}
 	async function fetchReleases() {
-		const res = await fetch('http://localhost:8081/releases');
+		const res = await fetch(
+			'https://raw.githubusercontent.com/MaxJW/UpcomingMarvelReleases/main/public/marvel.json'
+		);
 		const data = await res.json();
 
 		if (res.ok) {
-			console.log(res);
-			console.log(data);
+			data.sort(custom_sort);
 			return data;
 		} else {
 			throw new Error(data);
