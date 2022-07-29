@@ -163,7 +163,7 @@
 
 	@media (max-width: 429px) {
 		.tile {
-			height: 28vh;
+			height: 30vh;
 		}
 
 		.poster {
