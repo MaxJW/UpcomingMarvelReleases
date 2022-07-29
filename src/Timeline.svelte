@@ -8,7 +8,7 @@
 	}
 	async function fetchReleases() {
 		const res = await fetch(
-			'https://raw.githubusercontent.com/MaxJW/UpcomingMarvelReleases/main/public/marvel.json'
+			'/marvel.json'
 		);
 		const data = await res.json();
 
