@@ -36,30 +36,48 @@
 		{#if remaining.done === false}
 			<p class="countdown">
 				{#if remaining.years > 0}
-					{remaining.years} years,
-					{remaining.months} months,
-					{remaining.weeks} weeks
+					{remaining.years}
+					{remaining.years > 1 ? 'years' : 'year'},
+					{remaining.months}
+					{remaining.months > 1 ? 'months' : 'month'},
+					{remaining.weeks}
+					{remaining.weeks > 1 ? 'weeks' : 'week'}
 				{:else if remaining.months > 0}
-					{remaining.months} months,
-					{remaining.weeks} weeks,
-					{remaining.days} days
+					{remaining.months}
+					{remaining.months > 1 ? 'months' : 'month'},
+					{remaining.weeks}
+					{remaining.weeks > 1 ? 'weeks' : 'week'},
+					{remaining.days}
+					{remaining.days > 1 ? 'days' : 'day'}
 				{:else if remaining.weeks > 0}
-					{remaining.weeks} weeks,
-					{remaining.days} days,
-					{remaining.hours} hours
+					{remaining.weeks}
+					{remaining.weeks > 1 ? 'weeks' : 'week'},
+					{remaining.days}
+					{remaining.days > 1 ? 'days' : 'day'},
+					{remaining.hours}
+					{remaining.hours > 1 ? 'hours' : 'hour'}
 				{:else if remaining.days > 0}
-					{remaining.days} days,
-					{remaining.hours} hours,
-					{remaining.minutes} minutes
+					{remaining.days}
+					{remaining.days > 1 ? 'days' : 'day'},
+					{remaining.hours}
+					{remaining.hours > 1 ? 'hours' : 'hour'},
+					{remaining.minutes}
+					{remaining.minutes > 1 ? 'minutes' : 'minute'}
 				{:else if remaining.hours > 0}
-					{remaining.hours} hours,
-					{remaining.minutes} minutes,
-					{remaining.seconds} seconds
+					{remaining.hours}
+					{remaining.hours > 1 ? 'hours' : 'hour'},
+					{remaining.minutes}
+					{remaining.minutes > 1 ? 'minutes' : 'minute'},
+					{remaining.seconds}
+					{remaining.seconds > 1 ? 'seconds' : 'second'}
 				{:else if remaining.minutes > 0}
-					{remaining.minutes} minutes,
-					{remaining.seconds} seconds
+					{remaining.minutes}
+					{remaining.minutes > 1 ? 'minutes' : 'minute'},
+					{remaining.seconds}
+					{remaining.seconds > 1 ? 'seconds' : 'second'}
 				{:else if remaining.seconds > 0}
-					{remaining.seconds} seconds
+					{remaining.seconds}
+					{remaining.seconds > 1 ? 'seconds' : 'second'}
 				{/if}
 			</p>
 		{/if}
