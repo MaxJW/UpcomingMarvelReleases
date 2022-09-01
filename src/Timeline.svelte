@@ -7,9 +7,7 @@
 		);
 	}
 	async function fetchReleases() {
-		const res = await fetch(
-			'/marvel.json'
-		);
+		const res = await fetch('/marvel.json');
 		const data = await res.json();
 
 		if (res.ok) {
@@ -34,6 +32,7 @@
 			bind:poster={release.Poster}
 			bind:thumbnail={release.Thumbnail}
 			bind:tv={release.TV}
+			bind:disneyplus={release.Link}
 		/>
 	{/each}
 {:catch error}

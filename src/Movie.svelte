@@ -8,6 +8,7 @@
 	export let poster;
 	export let thumbnail;
 	export let tv;
+	export let disneyplus;
 	let w;
 	$: console.log(w);
 </script>
@@ -30,6 +31,11 @@
 			<a href="https://www.imdb.com/find?q={title}"
 				><i class="fa-brands fa-imdb fa-2xl" /></a
 			>
+			{#if disneyplus}
+				<a class="link-play" href={disneyplus}
+					><i class="fa-solid fa-circle-play fa-xl" /></a
+				>
+			{/if}
 		</div>
 	</div>
 	<Countdown from={date} dateFormat="YYYY-MM-DD[T]HH:mm:ss[Z]" let:remaining>
@@ -158,14 +164,23 @@
 		line-height: 1.2;
 	}
 
-	.film-length {
+	.film-length,
+	.link-play {
 		display: inline-block;
 		margin-top: 10px;
 		color: #fff;
-		padding: 5px;
 		border-radius: 5px;
-		border: 1px solid rgba(255, 255, 255, 0.2);
 		font-size: 0.9rem;
+	}
+
+	.film-length {
+		padding: 5px;
+		border: 1px solid rgba(255, 255, 255, 0.2);
+	}
+
+	.link-play {
+		padding: 3px;
+		border: 1px solid rgba(255, 255, 255, 0.7);
 	}
 
 	.countdown {
