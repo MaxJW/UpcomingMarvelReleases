@@ -1,5 +1,4 @@
 <script>
-	import Countdown from 'svelte-countdown/src/index.js';
 	import dayjs from 'dayjs';
 
 	export let title;
@@ -9,8 +8,52 @@
 	export let thumbnail;
 	export let tv;
 	export let disneyplus;
+
 	let w;
 	$: console.log(w);
+
+	import { onMount } from 'svelte';
+	import duration from 'dayjs/plugin/duration.js';
+	import relativeTime from 'dayjs/plugin/relativeTime';
+
+	dayjs.extend(duration);
+	dayjs.extend(relativeTime);
+
+	let remaining = 'Loading...';
+
+	let diff = 0;
+	let r, target, local, timer, dateFormat;
+	let done = false;
+
+	onMount(() => {
+		dateFormat = 'YYYY-MM-DD[T]HH:mm:ss[Z]';
+		target = dayjs(date, dateFormat);
+
+		if (dayjs.isDayjs(target)) {
+			local = dayjs();
+			diff = target.valueOf() - local.valueOf();
+		}
+
+		timer = setInterval(function () {
+			if (diff > 0) {
+				r = dayjs.duration(diff);
+				let week = r.weeks() - r.months() * 4 - r.years() * 12 * 4;
+				remaining = {
+					years: r.years(),
+					months: r.months(),
+					weeks: week,
+					days: r.days(),
+					hours: r.hours(),
+					minutes: r.minutes(),
+					seconds: r.seconds(),
+				};
+				diff -= 1000;
+			} else {
+				done = true;
+				clearInterval(timer);
+			}
+		}, 1000);
+	});
 </script>
 
 <svelte:window bind:innerWidth={w} />
@@ -38,56 +81,54 @@
 			{/if}
 		</div>
 	</div>
-	<Countdown from={date} dateFormat="YYYY-MM-DD[T]HH:mm:ss[Z]" let:remaining>
-		{#if remaining.done === false}
-			<p class="countdown">
-				{#if remaining.years > 0}
-					{remaining.years}
-					{remaining.years > 1 ? 'years' : 'year'},
-					{remaining.months}
-					{remaining.months > 1 ? 'months' : 'month'},
-					{remaining.weeks}
-					{remaining.weeks > 1 ? 'weeks' : 'week'}
-				{:else if remaining.months > 0}
-					{remaining.months}
-					{remaining.months > 1 ? 'months' : 'month'},
-					{remaining.weeks}
-					{remaining.weeks > 1 ? 'weeks' : 'week'},
-					{remaining.days}
-					{remaining.days > 1 ? 'days' : 'day'}
-				{:else if remaining.weeks > 0}
-					{remaining.weeks}
-					{remaining.weeks > 1 ? 'weeks' : 'week'},
-					{remaining.days}
-					{remaining.days > 1 ? 'days' : 'day'},
-					{remaining.hours}
-					{remaining.hours > 1 ? 'hours' : 'hour'}
-				{:else if remaining.days > 0}
-					{remaining.days}
-					{remaining.days > 1 ? 'days' : 'day'},
-					{remaining.hours}
-					{remaining.hours > 1 ? 'hours' : 'hour'},
-					{remaining.minutes}
-					{remaining.minutes > 1 ? 'minutes' : 'minute'}
-				{:else if remaining.hours > 0}
-					{remaining.hours}
-					{remaining.hours > 1 ? 'hours' : 'hour'},
-					{remaining.minutes}
-					{remaining.minutes > 1 ? 'minutes' : 'minute'},
-					{remaining.seconds}
-					{remaining.seconds > 1 ? 'seconds' : 'second'}
-				{:else if remaining.minutes > 0}
-					{remaining.minutes}
-					{remaining.minutes > 1 ? 'minutes' : 'minute'},
-					{remaining.seconds}
-					{remaining.seconds > 1 ? 'seconds' : 'second'}
-				{:else if remaining.seconds > 0}
-					{remaining.seconds}
-					{remaining.seconds > 1 ? 'seconds' : 'second'}
-				{/if}
-			</p>
-		{/if}
-	</Countdown>
+	{#if done === false}
+		<p class="countdown">
+			{#if remaining.years > 0}
+				{remaining.years}
+				{remaining.years > 1 ? 'years' : 'year'},
+				{remaining.months}
+				{remaining.months > 1 ? 'months' : 'month'},
+				{remaining.weeks}
+				{remaining.weeks > 1 ? 'weeks' : 'week'}
+			{:else if remaining.months > 0}
+				{remaining.months}
+				{remaining.months > 1 ? 'months' : 'month'},
+				{remaining.weeks}
+				{remaining.weeks > 1 ? 'weeks' : 'week'},
+				{remaining.days}
+				{remaining.days > 1 ? 'days' : 'day'}
+			{:else if remaining.weeks > 0}
+				{remaining.weeks}
+				{remaining.weeks > 1 ? 'weeks' : 'week'},
+				{remaining.days}
+				{remaining.days > 1 ? 'days' : 'day'},
+				{remaining.hours}
+				{remaining.hours > 1 ? 'hours' : 'hour'}
+			{:else if remaining.days > 0}
+				{remaining.days}
+				{remaining.days > 1 ? 'days' : 'day'},
+				{remaining.hours}
+				{remaining.hours > 1 ? 'hours' : 'hour'},
+				{remaining.minutes}
+				{remaining.minutes > 1 ? 'minutes' : 'minute'}
+			{:else if remaining.hours > 0}
+				{remaining.hours}
+				{remaining.hours > 1 ? 'hours' : 'hour'},
+				{remaining.minutes}
+				{remaining.minutes > 1 ? 'minutes' : 'minute'},
+				{remaining.seconds}
+				{remaining.seconds > 1 ? 'seconds' : 'second'}
+			{:else if remaining.minutes > 0}
+				{remaining.minutes}
+				{remaining.minutes > 1 ? 'minutes' : 'minute'},
+				{remaining.seconds}
+				{remaining.seconds > 1 ? 'seconds' : 'second'}
+			{:else if remaining.seconds > 0}
+				{remaining.seconds}
+				{remaining.seconds > 1 ? 'seconds' : 'second'}
+			{/if}
+		</p>
+	{/if}
 </div>
 
 <style>
