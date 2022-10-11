@@ -60,7 +60,7 @@
 
 <div class="tile">
 	<div class="poster-container" bind:clientWidth={posterWidth}>
-		<a href={disneyplus ? disneyplus : '#'}>
+		<a href={disneyplus ? disneyplus : '#/'}>
 			<img src={poster} alt={title} class="poster" />
 		</a>
 		{#if disneyplus}
@@ -183,7 +183,7 @@
 		color: black;
 	}
 
-	[href='#'] {
+	[href='#/'] {
 		pointer-events: none;
 		cursor: default;
 		text-decoration: none;
