@@ -135,6 +135,7 @@
 		margin-left: 1px; /* Removes pixel corner in poster */
 		background: var(--background);
 		--additional-padding: 10px;
+		overflow: hidden;
 	}
 
 	.details h2,
@@ -166,6 +167,11 @@
 		object-fit: cover;
 		display: block;
 		transition: all 0.4s ease;
+		-khtml-user-select: none;
+		-o-user-select: none;
+		-moz-user-select: none;
+		-webkit-user-select: none;
+		user-select: none;
 	}
 
 	.poster-container:hover .poster {
@@ -238,6 +244,10 @@
 			padding: 20px;
 			--additional-padding: 20px;
 		}
+
+		.poster-container {
+			max-width: 236.22px;
+		}
 	}
 
 	/* Tablet Landscape */
@@ -249,6 +259,10 @@
 		.details {
 			padding: 10px;
 		}
+
+		.poster-container {
+			max-width: 202.47px;
+		}
 	}
 
 	/* Tablet */
@@ -256,8 +270,13 @@
 		.tile {
 			height: 250px;
 		}
+
 		.details {
 			padding: 10px;
+		}
+
+		.poster-container {
+			max-width: 168.72px;
 		}
 	}
 
@@ -278,12 +297,20 @@
 		.details {
 			padding: 10px;
 		}
+
+		.poster-container {
+			max-width: 134.97px;
+		}
 	}
 
 	/* Phone landscape & smaller */
 	@media all and (max-width: 280px) {
 		.tile {
 			height: 150px;
+		}
+
+		.poster-container {
+			max-width: 101.22px;
 		}
 	}
 </style>
