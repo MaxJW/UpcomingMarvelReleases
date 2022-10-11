@@ -18,7 +18,7 @@
 		margin: auto;
 		width: 100%;
 		height: auto;
-		margin-bottom: 20px;
+		margin-bottom: 40px;
 		text-align: center;
 		align-items: center;
 		justify-content: center;
