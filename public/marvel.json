@@ -65,7 +65,7 @@
 	{
 		"ID": "8",
 		"Title": "Blade",
-		"ReleaseDate": "2023-11-03T00:00:00Z",
+		"ReleaseDate": "2024-09-06T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/blade_lob_crd_01.jpg",
 		"TV": false,
@@ -137,7 +137,7 @@
 	{
 		"ID": "16",
 		"Title": "Fantastic Four",
-		"ReleaseDate": "2024-11-08T00:00:00Z",
+		"ReleaseDate": "2025-02-14T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/fantasticfour_lob_crd_01.jpg",
 		"TV": false,
@@ -164,7 +164,7 @@
 	{
 		"ID": "19",
 		"Title": "Avengers: Secret Wars",
-		"ReleaseDate": "2025-11-07T00:00:00Z",
+		"ReleaseDate": "2026-05-01T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengerssecretwars_lob_crd_01.jpg",
 		"TV": false,
@@ -223,5 +223,14 @@
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/werewolfbynight_lob_crd_01.jpg",
 		"TV": false,
 		"Link": "https://www.disneyplus.com/movies/werewolf-by-night/J1sCDfT3MaDl"
+	},
+	{
+		"ID": "26",
+		"Title": "Untitled Deadpool Movie",
+		"ReleaseDate": "2024-11-08T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMGI0ZDg3Y2EtYzIyYi00MGYwLThlOGItNWQ5MjMxNDU2ODUzXkEyXkFqcGdeQXVyMTEwMTcxOTAx._V1_.jpg",
+		"TV": false,
+		"Link": ""
 	}
 ]
