@@ -10,7 +10,6 @@
 	export let disneyplus;
 
 	let w;
-	$: console.log(w);
 
 	import { onMount } from 'svelte';
 	import duration from 'dayjs/plugin/duration.js';
@@ -37,12 +36,13 @@
 		timer = setInterval(function () {
 			if (diff > 0) {
 				r = dayjs.duration(diff);
-				let week = r.weeks() - r.months() * 4 - r.years() * 12 * 4;
+				let week = Math.floor(r.days() / 7);
+				let day = r.days() - week * 7;
 				remaining = {
 					years: r.years(),
 					months: r.months(),
 					weeks: week,
-					days: r.days(),
+					days: day,
 					hours: r.hours(),
 					minutes: r.minutes(),
 					seconds: r.seconds(),
@@ -84,48 +84,38 @@
 	{#if done === false}
 		<p class="countdown">
 			{#if remaining.years > 0}
-				{remaining.years}
-				{remaining.years > 1 ? 'years' : 'year'},
-				{remaining.months}
-				{remaining.months > 1 ? 'months' : 'month'},
-				{remaining.weeks}
-				{remaining.weeks > 1 ? 'weeks' : 'week'}
+				{remaining.years + (remaining.years > 1 ? ' years' : ' year')},
+				{remaining.months +
+					(remaining.months > 1 ? ' months' : ' month')},
+				{remaining.weeks + (remaining.weeks > 1 ? ' weeks' : ' week')}
 			{:else if remaining.months > 0}
-				{remaining.months}
-				{remaining.months > 1 ? 'months' : 'month'},
-				{remaining.weeks}
-				{remaining.weeks > 1 ? 'weeks' : 'week'},
-				{remaining.days}
-				{remaining.days > 1 ? 'days' : 'day'}
+				{remaining.months +
+					(remaining.months > 1 ? ' months' : ' month')},
+				{remaining.weeks + (remaining.weeks > 1 ? ' weeks' : ' week')},
+				{remaining.days + (remaining.days > 1 ? ' days' : ' day')}
 			{:else if remaining.weeks > 0}
-				{remaining.weeks}
-				{remaining.weeks > 1 ? 'weeks' : 'week'},
-				{remaining.days}
-				{remaining.days > 1 ? 'days' : 'day'},
-				{remaining.hours}
-				{remaining.hours > 1 ? 'hours' : 'hour'}
+				{remaining.weeks + (remaining.weeks > 1 ? ' weeks' : ' week')},
+				{remaining.days + (remaining.days > 1 ? ' days' : ' day')},
+				{remaining.hours + (remaining.hours > 1 ? ' hours' : ' hour')}
 			{:else if remaining.days > 0}
-				{remaining.days}
-				{remaining.days > 1 ? 'days' : 'day'},
-				{remaining.hours}
-				{remaining.hours > 1 ? 'hours' : 'hour'},
-				{remaining.minutes}
-				{remaining.minutes > 1 ? 'minutes' : 'minute'}
+				{remaining.days + (remaining.days > 1 ? ' days' : ' day')},
+				{remaining.hours + (remaining.hours > 1 ? ' hours' : ' hour')},
+				{remaining.minutes +
+					(remaining.minutes > 1 ? ' minutes' : ' minute')}
 			{:else if remaining.hours > 0}
-				{remaining.hours}
-				{remaining.hours > 1 ? 'hours' : 'hour'},
-				{remaining.minutes}
-				{remaining.minutes > 1 ? 'minutes' : 'minute'},
-				{remaining.seconds}
-				{remaining.seconds > 1 ? 'seconds' : 'second'}
+				{remaining.hours + (remaining.hours > 1 ? ' hours' : ' hour')},
+				{remaining.minutes +
+					(remaining.minutes > 1 ? ' minutes' : ' minute')},
+				{remaining.seconds +
+					(remaining.seconds > 1 ? ' seconds' : ' second')}
 			{:else if remaining.minutes > 0}
-				{remaining.minutes}
-				{remaining.minutes > 1 ? 'minutes' : 'minute'},
-				{remaining.seconds}
-				{remaining.seconds > 1 ? 'seconds' : 'second'}
+				{remaining.minutes +
+					(remaining.minutes > 1 ? ' minutes' : ' minute')},
+				{remaining.seconds +
+					(remaining.seconds > 1 ? ' seconds' : ' second')}
 			{:else if remaining.seconds > 0}
-				{remaining.seconds}
-				{remaining.seconds > 1 ? 'seconds' : 'second'}
+				{remaining.seconds +
+					(remaining.seconds > 1 ? ' seconds' : ' second')}
 			{/if}
 		</p>
 	{/if}
