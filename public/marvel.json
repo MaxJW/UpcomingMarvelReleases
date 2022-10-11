@@ -176,7 +176,7 @@
 		"ReleaseDate": "2026-12-31T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/armorwars_lob_crd_02.jpg",
-		"TV": true,
+		"TV": false,
 		"Link": ""
 	},
 	{
