@@ -194,6 +194,7 @@
 		pointer-events: none;
 		cursor: default;
 		text-decoration: none;
+		color: #dbdbdb;
 		opacity: 0;
 		background-color: rgba(0, 0, 0, 0.5);
 		transition: all 0.4s ease;
