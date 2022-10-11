@@ -70,7 +70,9 @@
 		<div class="text">
 			<h2>{title}</h2>
 			<h4>{dayjs(date).format('MMMM D, YYYY')}</h4>
-			<p class="film-length">{length} {tv ? 'episodes' : 'min'}</p>
+			<p class="film-length">
+				{length != '0' ? length + (tv ? ' episodes' : '') : 'Unknown'}
+			</p>
 			<a href="https://www.imdb.com/find?q={title}"
 				><i class="fa-brands fa-imdb fa-2xl" /></a
 			>
@@ -84,38 +86,30 @@
 	{#if done === false}
 		<p class="countdown">
 			{#if remaining.years > 0}
-				{remaining.years + (remaining.years > 1 ? ' years' : ' year')},
-				{remaining.months +
-					(remaining.months > 1 ? ' months' : ' month')},
-				{remaining.weeks + (remaining.weeks > 1 ? ' weeks' : ' week')}
+				{remaining.years + ' years'},
+				{remaining.months + ' months'},
+				{remaining.weeks + ' weeks'}
 			{:else if remaining.months > 0}
-				{remaining.months +
-					(remaining.months > 1 ? ' months' : ' month')},
-				{remaining.weeks + (remaining.weeks > 1 ? ' weeks' : ' week')},
-				{remaining.days + (remaining.days > 1 ? ' days' : ' day')}
+				{remaining.months + ' months'},
+				{remaining.weeks + ' weeks'},
+				{remaining.days + ' days'}
 			{:else if remaining.weeks > 0}
-				{remaining.weeks + (remaining.weeks > 1 ? ' weeks' : ' week')},
-				{remaining.days + (remaining.days > 1 ? ' days' : ' day')},
-				{remaining.hours + (remaining.hours > 1 ? ' hours' : ' hour')}
+				{remaining.weeks + ' weeks'},
+				{remaining.days + ' days'},
+				{remaining.hours + ' hours'}
 			{:else if remaining.days > 0}
-				{remaining.days + (remaining.days > 1 ? ' days' : ' day')},
-				{remaining.hours + (remaining.hours > 1 ? ' hours' : ' hour')},
-				{remaining.minutes +
-					(remaining.minutes > 1 ? ' minutes' : ' minute')}
+				{remaining.days + ' days'},
+				{remaining.hours + ' hours'},
+				{remaining.minutes + ' minutes'}
 			{:else if remaining.hours > 0}
-				{remaining.hours + (remaining.hours > 1 ? ' hours' : ' hour')},
-				{remaining.minutes +
-					(remaining.minutes > 1 ? ' minutes' : ' minute')},
-				{remaining.seconds +
-					(remaining.seconds > 1 ? ' seconds' : ' second')}
+				{remaining.hours + ' hours'},
+				{remaining.minutes + ' minutes'},
+				{remaining.seconds + ' seconds'}
 			{:else if remaining.minutes > 0}
-				{remaining.minutes +
-					(remaining.minutes > 1 ? ' minutes' : ' minute')},
-				{remaining.seconds +
-					(remaining.seconds > 1 ? ' seconds' : ' second')}
+				{remaining.minutes + ' minutes'},
+				{remaining.seconds + ' seconds'}
 			{:else if remaining.seconds > 0}
-				{remaining.seconds +
-					(remaining.seconds > 1 ? ' seconds' : ' second')}
+				{remaining.seconds + ' seconds'}
 			{/if}
 		</p>
 	{/if}
