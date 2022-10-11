@@ -22,7 +22,9 @@
 </script>
 
 {#await releases}
-	<p>Loading</p>
+	<div class="center">
+		<span class="loader" />
+	</div>
 {:then releases}
 	{#each releases as release}
 		<Movie
@@ -49,5 +51,30 @@
 		font-weight: bold;
 		font-size: 3rem;
 		text-align: center;
+	}
+
+	.loader {
+		width: 48px;
+		height: 48px;
+		border: 5px solid #fff;
+		border-bottom-color: transparent;
+		border-radius: 50%;
+		display: inline-block;
+		box-sizing: border-box;
+		animation: rotation 1s linear infinite;
+	}
+
+	@keyframes rotation {
+		0% {
+			transform: rotate(0deg);
+		}
+		100% {
+			transform: rotate(360deg);
+		}
+	}
+
+	.center {
+		display: flex;
+		justify-content: center;
 	}
 </style>
