@@ -30,7 +30,6 @@
 			bind:date={release.ReleaseDate}
 			bind:length={release.FilmLength}
 			bind:poster={release.Poster}
-			bind:thumbnail={release.Thumbnail}
 			bind:tv={release.TV}
 			bind:disneyplus={release.Link}
 		/>

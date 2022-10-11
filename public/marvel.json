@@ -5,7 +5,6 @@
 		"ReleaseDate": "2022-08-10T00:00:00Z",
 		"FilmLength": "5",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/iamgroot_lob_crd_03.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/iamgroot_lob_mas_dsk_03.jpg",
 		"TV": true,
 		"Link": "https://www.disneyplus.com/movies/i-am-groot-groots-first-steps/4YcuPHl87ZEw"
 	},
@@ -15,7 +14,6 @@
 		"ReleaseDate": "2022-08-17T00:00:00Z",
 		"FilmLength": "9",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/shehulk_lob_crd_04.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/123shh_ons_mas_dsk_02.jpg",
 		"TV": true,
 		"Link": "https://www.disneyplus.com/series/she-hulk-attorney-at-law/gPwaYusKqRQh"
 	},
@@ -25,7 +23,6 @@
 		"ReleaseDate": "2022-11-11T00:00:00Z",
 		"FilmLength": "2h 41m",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/blackpantherwakandaforever_lob_crd_05.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/blackpantherwakandaforever_lob_mas_mob_03.jpg",
 		"TV": false,
 		"Link": ""
 	},
@@ -35,7 +32,6 @@
 		"ReleaseDate": "2022-12-31T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/gotg-holiday_lob_crd_01.jpg",
-		"Thumbnail": "https://cdn.mos.cms.futurecdn.net/9e9AKni5ZSUsohLVp9KxoF.jpg",
 		"TV": true,
 		"Link": ""
 	},
@@ -45,7 +41,6 @@
 		"ReleaseDate": "2023-02-17T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/antman_lob_crd_01.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/fe5wfnmxoay7wvy.jpeg",
 		"TV": false,
 		"Link": ""
 	},
@@ -55,7 +50,6 @@
 		"ReleaseDate": "2023-05-05T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/guardiansofthegalaxyvolume3_lob_crd_01.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/guardiansofthegalaxyvolume3_lob_mas_dsk_01.jpg",
 		"TV": false,
 		"Link": ""
 	},
@@ -65,7 +59,6 @@
 		"ReleaseDate": "2023-07-28T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/themarvels_lob_crd_01.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/themarvels_lob_mas_dsk_01.jpg",
 		"TV": false,
 		"Link": ""
 	},
@@ -75,7 +68,6 @@
 		"ReleaseDate": "2023-11-03T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/blade_lob_crd_01.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/blade_com_mas_dsk_01.jpg",
 		"TV": false,
 		"Link": ""
 	},
@@ -85,7 +77,6 @@
 		"ReleaseDate": "2023-12-31T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/secretinvasion_lob_crd_03.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/secretinvasion_lob_mas_dsk_03.jpg",
 		"TV": true,
 		"Link": ""
 	},
@@ -95,7 +86,6 @@
 		"ReleaseDate": "2023-12-31T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/echo_lob_crd_01.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/echo_lob_mas_dsk_01.jpg",
 		"TV": true,
 		"Link": ""
 	},
@@ -105,7 +95,6 @@
 		"ReleaseDate": "2023-12-31T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/loki_lob_crd_02_1.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/lokis2_lob_mas_dsk_01.jpg",
 		"TV": true,
 		"Link": ""
 	},
@@ -115,7 +104,6 @@
 		"ReleaseDate": "2023-12-31T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironheart_lob_crd_02.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironheart_lob_mas_dsk_02.jpg",
 		"TV": true,
 		"Link": ""
 	},
@@ -125,7 +113,6 @@
 		"ReleaseDate": "2023-12-31T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/agathahouseofharkness_lob_crd_01.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/agathahouseofharkness_lob_mas_dsk_01.jpg",
 		"TV": true,
 		"Link": ""
 	},
@@ -135,7 +122,6 @@
 		"ReleaseDate": "2024-05-03T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainamericaneworldorder_lob_crd_01.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainamericaneworldorder_lob_mas_mob_01.jpg",
 		"TV": false,
 		"Link": ""
 	},
@@ -145,7 +131,6 @@
 		"ReleaseDate": "2024-07-26T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/thunderbolts_lob_crd_01.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/thunderbolts_lob_mas_dsk_01.jpg",
 		"TV": false,
 		"Link": ""
 	},
@@ -155,7 +140,6 @@
 		"ReleaseDate": "2024-11-08T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/fantasticfour_lob_crd_01.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/fantasticfour_com_mas_dsk_01.jpg",
 		"TV": false,
 		"Link": ""
 	},
@@ -165,7 +149,6 @@
 		"ReleaseDate": "2024-12-31T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/daredevilbornagain_lob_crd_01.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/daredevilbornagain_lob_mas_mob_01.jpg",
 		"TV": true,
 		"Link": ""
 	},
@@ -175,7 +158,6 @@
 		"ReleaseDate": "2025-05-02T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersthekangdynasty_lob_crd_01.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersthekangdynasty_lob_mas_dsk_01.jpg",
 		"TV": false,
 		"Link": ""
 	},
@@ -185,7 +167,6 @@
 		"ReleaseDate": "2025-11-07T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengerssecretwars_lob_crd_01.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengerssecretwars_lob_mas_dsk_01.jpg",
 		"TV": false,
 		"Link": ""
 	},
@@ -195,7 +176,6 @@
 		"ReleaseDate": "2026-12-31T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/armorwars_lob_crd_02.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/armorwars_lob_mas_dsk_02.jpg",
 		"TV": true,
 		"Link": ""
 	},
@@ -205,7 +185,6 @@
 		"ReleaseDate": "2026-12-31T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/xmen97_lob_crd_01_rev.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/xmen97_lob_mas_dsk_01.jpg",
 		"TV": true,
 		"Link": ""
 	},
@@ -215,7 +194,6 @@
 		"ReleaseDate": "2026-12-31T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/whatif2_lob_crd_01.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/whatif2_lob_mas_dsk_01.jpg",
 		"TV": true,
 		"Link": ""
 	},
@@ -225,7 +203,6 @@
 		"ReleaseDate": "2026-12-31T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/spider-manfreshmanyear_lob_crd_01.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/spider-manfreshmanyear_lob_mas_mob_01.jpg",
 		"TV": true,
 		"Link": ""
 	},
@@ -235,8 +212,16 @@
 		"ReleaseDate": "2026-12-31T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/marvelzombies_lob_crd_01.jpg",
-		"Thumbnail": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/marvelzombies_lob_mas_dsk_01.jpg",
 		"TV": true,
 		"Link": ""
+	},
+	{
+		"ID": "25",
+		"Title": "Werewolf By Night",
+		"ReleaseDate": "2022-10-07T00:00:00Z",
+		"FilmLength": "54m",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/werewolfbynight_lob_crd_01.jpg",
+		"TV": false,
+		"Link": "https://www.disneyplus.com/movies/werewolf-by-night/J1sCDfT3MaDl"
 	}
 ]
