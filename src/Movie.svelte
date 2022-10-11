@@ -205,11 +205,11 @@
 
 	.film-length {
 		padding: 5px;
-		border: 1px solid rgba(255, 255, 255, 0.2);
+		border: 1px solid var(--text-muted);
 		display: inline-block;
 		margin-top: 5px !important;
 		margin-bottom: 5px !important;
-		color: #fff;
+		color: var(--text-main);
 		border-radius: 5px;
 		font-size: 0.9rem;
 	}
