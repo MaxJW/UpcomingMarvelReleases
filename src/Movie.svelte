@@ -1,5 +1,8 @@
 <script>
 	import dayjs from 'dayjs';
+	import { onMount } from 'svelte';
+	import duration from 'dayjs/plugin/duration.js';
+	import relativeTime from 'dayjs/plugin/relativeTime';
 
 	export let title;
 	export let date;
@@ -8,51 +11,47 @@
 	export let tv;
 	export let disneyplus;
 
-	let w;
-	let posterWidth;
-
-	import { onMount } from 'svelte';
-	import duration from 'dayjs/plugin/duration.js';
-	import relativeTime from 'dayjs/plugin/relativeTime';
-
 	dayjs.extend(duration);
 	dayjs.extend(relativeTime);
 
+	let w;
+	let posterWidth;
+	let r, local, timer;
+	let diff = 0;
+	let dateFormat = 'YYYY-MM-DD[T]HH:mm:ss[Z]';
+	let target = dayjs(date, dateFormat);
+	let done = false;
 	let remaining = 'Loading...';
 
-	let diff = 0;
-	let r, target, local, timer, dateFormat;
-	let done = false;
-
-	onMount(() => {
-		dateFormat = 'YYYY-MM-DD[T]HH:mm:ss[Z]';
-		target = dayjs(date, dateFormat);
-
-		if (dayjs.isDayjs(target)) {
-			local = dayjs();
-			diff = target.valueOf() - local.valueOf();
+	function getRemaining() {
+		if (diff > 0) {
+			r = dayjs.duration(diff);
+			let week = Math.floor(r.days() / 7);
+			let day = r.days() - week * 7;
+			remaining = {
+				years: r.years(),
+				months: r.months(),
+				weeks: week,
+				days: day,
+				hours: r.hours(),
+				minutes: r.minutes(),
+				seconds: r.seconds(),
+			};
+			diff -= 1000;
+		} else {
+			done = true;
+			clearInterval(timer);
 		}
+	}
 
-		timer = setInterval(function () {
-			if (diff > 0) {
-				r = dayjs.duration(diff);
-				let week = Math.floor(r.days() / 7);
-				let day = r.days() - week * 7;
-				remaining = {
-					years: r.years(),
-					months: r.months(),
-					weeks: week,
-					days: day,
-					hours: r.hours(),
-					minutes: r.minutes(),
-					seconds: r.seconds(),
-				};
-				diff -= 1000;
-			} else {
-				done = true;
-				clearInterval(timer);
-			}
-		}, 1000);
+	if (dayjs.isDayjs(target)) {
+		local = dayjs();
+		diff = target.valueOf() - local.valueOf();
+	}
+
+	onMount(async () => {
+		getRemaining();
+		timer = setInterval(getRemaining, 1000);
 	});
 </script>
 
