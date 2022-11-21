@@ -30,8 +30,8 @@
 		"ID": "4",
 		"Title": "The Guardians of the Galaxy Holiday Special",
 		"ReleaseDate": "2022-12-31T00:00:00Z",
-		"FilmLength": "0",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/gotg-holiday_lob_crd_01.jpg",
+		"FilmLength": "44m",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/theguardiansofthegalaxyholidayspecial_lob_crd_02.jpg",
 		"TV": true,
 		"Link": ""
 	},
@@ -40,7 +40,7 @@
 		"Title": "Ant-Man And The Wasp: Quantumania",
 		"ReleaseDate": "2023-02-17T00:00:00Z",
 		"FilmLength": "0",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/antman_lob_crd_01.jpg",
+		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/antmanandthewaspquantumania_lob_crd_02.jpg",
 		"TV": false,
 		"Link": ""
 	},
