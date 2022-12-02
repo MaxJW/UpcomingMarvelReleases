@@ -24,7 +24,6 @@
 		"@fortawesome/free-brands-svg-icons": "^6.2.0",
 		"@fortawesome/free-solid-svg-icons": "^6.2.0",
 		"dayjs": "^1.11.6",
-		"svelte-fa": "^3.0.3",
 		"svelte-particles": "^2.5.3",
 		"tsparticles": "^2.5.3"
 	}
