@@ -1,25 +1,31 @@
 {
-  "name": "svelte-app",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "build": "rollup -c",
-    "dev": "rollup -c -w",
-    "start": "sirv public --no-clear"
-  },
-  "devDependencies": {
-    "@rollup/plugin-commonjs": "^17.0.0",
-    "@rollup/plugin-node-resolve": "^11.0.0",
-    "rollup": "^2.3.4",
-    "rollup-plugin-css-only": "^3.1.0",
-    "rollup-plugin-livereload": "^2.0.0",
-    "rollup-plugin-svelte": "^7.0.0",
-    "rollup-plugin-terser": "^7.0.0",
-    "svelte": "^3.0.0"
-  },
-  "dependencies": {
-    "dayjs": "^1.11.4",
-    "sirv-cli": "^2.0.0",
-    "svelte-countdown": "^1.1.2"
-  }
+	"name": "myapp",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview",
+		"check": "svelte-check --tsconfig ./tsconfig.json"
+	},
+	"devDependencies": {
+		"@sveltejs/vite-plugin-svelte": "^1.1.0",
+		"@tsconfig/svelte": "^3.0.0",
+		"fractils": "^3.0.2",
+		"svelte": "^3.52.0",
+		"svelte-check": "^2.9.2",
+		"svelte-preprocess": "^4.10.7",
+		"tslib": "^2.4.0",
+		"typescript": "^4.6.4",
+		"vite": "^3.2.0"
+	},
+	"dependencies": {
+		"@fortawesome/free-brands-svg-icons": "^6.2.0",
+		"@fortawesome/free-solid-svg-icons": "^6.2.0",
+		"dayjs": "^1.11.6",
+		"svelte-fa": "^3.0.3",
+		"svelte-particles": "^2.5.3",
+		"tsparticles": "^2.5.3"
+	}
 }

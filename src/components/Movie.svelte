@@ -74,9 +74,11 @@
 	>
 		<h2 class="please">{title}</h2>
 		<h4>{dayjs(date).format('MMMM D, YYYY')}</h4>
-		<p class="film-length">
-			{length != '0' ? length + (tv ? ' episodes' : '') : 'Unknown'}
-		</p>
+		<div class="blocks">
+			<p class="film-length">
+				{length != '0' ? length + (tv ? ' episodes' : '') : 'Unknown'}
+			</p>
+		</div>
 		{#if done === false}
 			<p class="countdown">
 				{#if remaining.years > 0}
@@ -209,12 +211,15 @@
 		opacity: 1;
 	}
 
+	.blocks {
+		margin-top: 5px !important;
+		margin-bottom: 5px !important;
+	}
+
 	.film-length {
 		padding: 5px;
 		border: 1px solid var(--text-muted);
 		display: inline-block;
-		margin-top: 5px !important;
-		margin-bottom: 5px !important;
 		color: var(--text-main);
 		border-radius: 5px;
 		font-size: 0.9rem;
@@ -226,7 +231,7 @@
 			height: 350px;
 		}
 
-		.film-length {
+		.blocks {
 			margin-top: 10px !important;
 			margin-bottom: 10px !important;
 		}
