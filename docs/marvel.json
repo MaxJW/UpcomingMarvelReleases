@@ -32,7 +32,7 @@
 		"ReleaseDate": "2022-11-25T00:00:00Z",
 		"FilmLength": "44m",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/theguardiansofthegalaxyholidayspecial_lob_crd_02.jpg",
-		"TV": true,
+		"TV": false,
 		"Link": "https://www.disneyplus.com/movies/the-guardians-of-the-galaxy-holiday-special/5HUc4iuAVplq"
 	},
 	{
@@ -51,7 +51,7 @@
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/guardiansofthegalaxyvolume3_lob_crd_01.jpg",
 		"TV": false,
-		"Link": ""
+		"Link": "https://www.disneyplus.com/movies/guardians-of-the-galaxy-vol-3/1tmc3nPw04S2"
 	},
 	{
 		"ID": "7",
