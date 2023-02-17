@@ -120,7 +120,7 @@
     }
 
     .details {
-        width: 100%;
+        width: 99%;
         height: 80%;
         position: absolute;
         bottom: 0;

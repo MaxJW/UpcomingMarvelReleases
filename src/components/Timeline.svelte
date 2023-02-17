@@ -9,7 +9,9 @@
         return new Date(a.ReleaseDate).getTime() - new Date(b.ReleaseDate).getTime();
     }
     async function fetchReleases() {
-        const res = await fetch('/marvel.json');
+        const res = await fetch(
+            'https://raw.githubusercontent.com/MaxJW/UpcomingMarvelReleases/main/marvel.json',
+        );
         const data = await res.json();
 
         if (res.ok) {
