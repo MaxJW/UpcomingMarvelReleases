@@ -83,7 +83,7 @@
 	{
 		"ID": "10",
 		"Title": "Echo",
-		"ReleaseDate": "2023-12-31T00:00:00Z",
+		"ReleaseDate": "2023-11-29T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/echo_lob_crd_01.jpg",
 		"TV": true,
@@ -92,7 +92,7 @@
 	{
 		"ID": "11",
 		"Title": "Loki | Season 2",
-		"ReleaseDate": "2023-12-31T00:00:00Z",
+		"ReleaseDate": "2023-10-06T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://cdn.marvel.com/content/1x/lokis2_lob_crd_01.jpg",
 		"TV": true,
