@@ -109,10 +109,10 @@
 	},
 	{
 		"ID": "13",
-		"Title": "Agatha: House of Harkness",
+		"Title": "Agatha: Coven of Chaos",
 		"ReleaseDate": "2023-12-31T00:00:00Z",
 		"FilmLength": "0",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/agathahouseofharkness_lob_crd_01.jpg",
+		"Poster": "https://cdn.marvel.com/content/1x/agathacovenofchaos_lob_crd_01.jpgg",
 		"TV": true,
 		"Link": ""
 	},
@@ -182,7 +182,7 @@
 	{
 		"ID": "21",
 		"Title": "X-Men '97",
-		"ReleaseDate": "2026-12-31T00:00:00Z",
+		"ReleaseDate": "2027-12-31T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/xmen97_lob_crd_01_rev.jpg",
 		"TV": true,
@@ -191,7 +191,7 @@
 	{
 		"ID": "22",
 		"Title": "What if...? | Season 2",
-		"ReleaseDate": "2026-12-31T00:00:00Z",
+		"ReleaseDate": "2027-12-31T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/whatif2_lob_crd_01.jpg",
 		"TV": true,
@@ -200,7 +200,7 @@
 	{
 		"ID": "23",
 		"Title": "Spider-Man: Freshman Year",
-		"ReleaseDate": "2026-12-31T00:00:00Z",
+		"ReleaseDate": "2027-12-31T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/spider-manfreshmanyear_lob_crd_01.jpg",
 		"TV": true,
@@ -209,7 +209,7 @@
 	{
 		"ID": "24",
 		"Title": "Marvel Zombies",
-		"ReleaseDate": "2026-12-31T00:00:00Z",
+		"ReleaseDate": "2027-12-31T00:00:00Z",
 		"FilmLength": "0",
 		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/marvelzombies_lob_crd_01.jpg",
 		"TV": true,
