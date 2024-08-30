@@ -1,24 +1,29 @@
 [
 	{
-		"ID": "1",
 		"Title": "I Am Groot",
 		"ReleaseDate": "2022-08-10T00:00:00Z",
 		"FilmLength": "5",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/iamgroot_lob_crd_03.jpg",
+		"Poster": "https://cdn.marvel.com/content/1x/iamgroot_lob_crd_04.jpg",
 		"TV": true,
 		"Link": "https://www.disneyplus.com/movies/i-am-groot-groots-first-steps/4YcuPHl87ZEw"
 	},
 	{
-		"ID": "2",
+		"Title": "I Am Groot | Season 2",
+		"ReleaseDate": "2023-09-06T00:00:00Z",
+		"FilmLength": "5",
+		"Poster": "https://cdn.marvel.com/content/1x/iamgroots2_lob_crd_01.jpg",
+		"TV": true,
+		"Link": "https://www.disneyplus.com/series/i-am-groot/3FfVmffm1ijj"
+	},
+	{
 		"Title": "She-Hulk",
 		"ReleaseDate": "2022-08-17T00:00:00Z",
 		"FilmLength": "9",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/shehulk_lob_crd_04.jpg",
+		"Poster": "https://cdn.marvel.com/content/1x/shehulk_lob_crd_04.jpg",
 		"TV": true,
 		"Link": "https://www.disneyplus.com/series/she-hulk-attorney-at-law/gPwaYusKqRQh"
 	},
 	{
-		"ID": "3",
 		"Title": "Black Panther: Wakanda Forever",
 		"ReleaseDate": "2022-11-11T00:00:00Z",
 		"FilmLength": "2h 41m",
@@ -27,52 +32,46 @@
 		"Link": "https://www.disneyplus.com/movies/black-panther-wakanda-forever/7MAONYZ92wDT"
 	},
 	{
-		"ID": "4",
 		"Title": "The Guardians of the Galaxy Holiday Special",
 		"ReleaseDate": "2022-11-25T00:00:00Z",
 		"FilmLength": "44m",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/theguardiansofthegalaxyholidayspecial_lob_crd_02.jpg",
+		"Poster": "https://cdn.marvel.com/content/1x/theguardiansofthegalaxyholidayspecial_lob_crd_02.jpg",
 		"TV": false,
 		"Link": "https://www.disneyplus.com/movies/the-guardians-of-the-galaxy-holiday-special/5HUc4iuAVplq"
 	},
 	{
-		"ID": "5",
 		"Title": "Ant-Man And The Wasp: Quantumania",
 		"ReleaseDate": "2023-02-17T00:00:00Z",
 		"FilmLength": "2h 54m",
-		"Poster": "https://cdn.marvel.com/content/1x/antmanandthewaspquantumania_lob_crd_04.jpg",
+		"Poster": "https://cdn.marvel.com/content/1x/antmanandthewaspquantumania_lob_crd_03.jpg",
 		"TV": false,
 		"Link": "https://www.disneyplus.com/movies/ant-man-and-the-wasp-quantumania/7OLRMMgd1vkx"
 	},
 	{
-		"ID": "6",
 		"Title": "Guardians Of The Galaxy Vol. 3",
 		"ReleaseDate": "2023-05-03T00:00:00Z",
 		"FilmLength": "2h 30m",
-		"Poster": "https://cdn.marvel.com/content/1x/guardiansofthegalaxyvolume3_lob_crd_02.jpg",
+		"Poster": "https://cdn.marvel.com/content/1x/guardiansofthegalaxyvolume3_lob_crd_03.jpg",
 		"TV": false,
 		"Link": "https://www.disneyplus.com/movies/guardians-of-the-galaxy-vol-3/1tmc3nPw04S2"
 	},
 	{
-		"ID": "7",
 		"Title": "The Marvels",
 		"ReleaseDate": "2023-11-10T00:00:00Z",
-		"FilmLength": "0",
-		"Poster": "https://cdn.marvel.com/content/1x/themarvels_lob_crd_02.jpg",
+		"FilmLength": "1h 45m",
+		"Poster": "https://cdn.marvel.com/content/1x/themarvels_lob_crd_05.jpg",
 		"TV": false,
-		"Link": ""
+		"Link": "https://www.disneyplus.com/movies/the-marvels/3sAcYG9CeWFw"
 	},
 	{
-		"ID": "8",
 		"Title": "Blade",
-		"ReleaseDate": "2025-02-14T00:00:00Z",
+		"ReleaseDate": "2025-11-07T00:00:00Z",
 		"FilmLength": "0",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/blade_lob_crd_01.jpg",
+		"Poster": "https://cdn.marvel.com/content/1x/blade_lob_crd_01.jpg",
 		"TV": false,
 		"Link": ""
 	},
 	{
-		"ID": "9",
 		"Title": "Secret Invasion",
 		"ReleaseDate": "2023-06-21T00:00:00Z",
 		"FilmLength": "6",
@@ -81,155 +80,130 @@
 		"Link": "https://www.disneyplus.com/series/secret-invasion/3iHQtD1BDpgN"
 	},
 	{
-		"ID": "10",
 		"Title": "Echo",
-		"ReleaseDate": "2023-11-29T00:00:00Z",
-		"FilmLength": "0",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/echo_lob_crd_01.jpg",
+		"ReleaseDate": "2024-01-09T00:00:00Z",
+		"FilmLength": "5",
+		"Poster": "https://cdn.marvel.com/content/1x/echo_lob_crd_02.jpg",
 		"TV": true,
-		"Link": ""
+		"Link": "https://www.disneyplus.com/series/details/4unBxmuv2B8B"
 	},
 	{
-		"ID": "11",
 		"Title": "Loki | Season 2",
-		"ReleaseDate": "2023-10-06T00:00:00Z",
-		"FilmLength": "0",
-		"Poster": "https://cdn.marvel.com/content/1x/lokis2_lob_crd_01.jpg",
+		"ReleaseDate": "2023-10-05T00:00:00Z",
+		"FilmLength": "6",
+		"Poster": "https://cdn.marvel.com/content/1x/lokis2_lob_crd_04.jpg",
 		"TV": true,
-		"Link": ""
+		"Link": "https://www.disneyplus.com/series/loki/6pARMvILBGzF"
 	},
 	{
-		"ID": "12",
 		"Title": "Ironheart",
-		"ReleaseDate": "2023-12-31T00:00:00Z",
+		"ReleaseDate": "2025-12-31T00:00:00Z",
 		"FilmLength": "0",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironheart_lob_crd_02.jpg",
+		"Poster": "https://cdn.marvel.com/content/1x/ironheart_lob_crd_02.jpg",
 		"TV": true,
 		"Link": ""
 	},
 	{
-		"ID": "13",
-		"Title": "Agatha: Coven of Chaos",
-		"ReleaseDate": "2023-12-31T00:00:00Z",
-		"FilmLength": "0",
-		"Poster": "https://cdn.marvel.com/content/1x/agathacovenofchaos_lob_crd_01.jpg",
+		"Title": "Agatha All Along",
+		"ReleaseDate": "2024-09-18T00:00:00Z",
+		"FilmLength": "9",
+		"Poster": "https://cdn.marvel.com/content/1x/agathaallalong_lob_crd_02.jpg",
 		"TV": true,
-		"Link": ""
+		"Link": "https://www.disneyplus.com/series/agatha-all-along/6Nf0RIVHbJnh"
 	},
 	{
-		"ID": "14",
 		"Title": "Captain America: Brave New World",
-		"ReleaseDate": "2024-07-26T00:00:00Z",
+		"ReleaseDate": "2025-02-14T00:00:00Z",
 		"FilmLength": "0",
-		"Poster": "https://cdn.marvel.com/content/1x/captainamericabravenewworld_lob_crd_01.jpg",
+		"Poster": "https://cdn.marvel.com/content/1x/captainamericabravenewworld_lob_crd_03.jpg",
 		"TV": false,
 		"Link": ""
 	},
 	{
-		"ID": "15",
 		"Title": "Thunderbolts",
-		"ReleaseDate": "2024-12-20T00:00:00Z",
-		"FilmLength": "0",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/thunderbolts_lob_crd_01.jpg",
-		"TV": false,
-		"Link": ""
-	},
-	{
-		"ID": "16",
-		"Title": "Fantastic Four",
 		"ReleaseDate": "2025-05-02T00:00:00Z",
 		"FilmLength": "0",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/fantasticfour_lob_crd_01.jpg",
+		"Poster": "https://cdn.marvel.com/content/1x/thunderbolts_lob_crd_01.jpg",
 		"TV": false,
 		"Link": ""
 	},
 	{
-		"ID": "17",
-		"Title": "Daredevil: Born Again",
-		"ReleaseDate": "2024-12-31T00:00:00Z",
+		"Title": "Fantastic Four",
+		"ReleaseDate": "2025-07-25T00:00:00Z",
 		"FilmLength": "0",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/daredevilbornagain_lob_crd_01.jpg",
+		"Poster": "https://cdn.marvel.com/content/1x/fantasticfour_lob_crd_01.jpg",
+		"TV": false,
+		"Link": ""
+	},
+	{
+		"Title": "Daredevil: Born Again",
+		"ReleaseDate": "2025-03-31T00:00:00Z",
+		"FilmLength": "0",
+		"Poster": "https://cdn.marvel.com/content/1x/daredevilbornagain_lob_crd_01.jpg",
 		"TV": true,
 		"Link": ""
 	},
 	{
-		"ID": "18",
-		"Title": "Avengers: The Kang Dynasty",
+		"Title": "Avengers: Doomsday",
 		"ReleaseDate": "2026-05-01T00:00:00Z",
 		"FilmLength": "0",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersthekangdynasty_lob_crd_01.jpg",
+		"Poster": "https://cdn.marvel.com/content/1x/avengersdoomsday_lob_crd_01.jpg",
 		"TV": false,
 		"Link": ""
 	},
 	{
-		"ID": "19",
 		"Title": "Avengers: Secret Wars",
 		"ReleaseDate": "2027-05-07T00:00:00Z",
 		"FilmLength": "0",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengerssecretwars_lob_crd_01.jpg",
+		"Poster": "https://cdn.marvel.com/content/1x/avengerssecretwars_lob_crd_01.jpg",
 		"TV": false,
 		"Link": ""
 	},
 	{
-		"ID": "20",
-		"Title": "Armor Wars",
-		"ReleaseDate": "2026-12-31T00:00:00Z",
-		"FilmLength": "0",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/armorwars_lob_crd_02.jpg",
-		"TV": false,
-		"Link": ""
-	},
-	{
-		"ID": "21",
 		"Title": "X-Men '97",
-		"ReleaseDate": "2027-12-31T00:00:00Z",
-		"FilmLength": "0",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/xmen97_lob_crd_01_rev.jpg",
+		"ReleaseDate": "2024-03-20T00:00:00Z",
+		"FilmLength": "10",
+		"Poster": "https://cdn.marvel.com/content/1x/xmen97_lob_crd_02.jpg",
 		"TV": true,
-		"Link": ""
+		"Link": "https://www.disneyplus.com/series/x-men-97/vc1XIz90ZNH5"
 	},
 	{
-		"ID": "22",
 		"Title": "What if...? | Season 2",
-		"ReleaseDate": "2027-12-31T00:00:00Z",
-		"FilmLength": "0",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/whatif2_lob_crd_01.jpg",
+		"ReleaseDate": "2023-12-22T00:00:00Z",
+		"FilmLength": "9",
+		"Poster": "https://cdn.marvel.com/content/1x/whatifs2_lob_crd_02.jpg",
 		"TV": true,
-		"Link": ""
+		"Link": "https://www.disneyplus.com/series/details/7672ZVj1ZxU9"
 	},
 	{
-		"ID": "23",
 		"Title": "Spider-Man: Freshman Year",
 		"ReleaseDate": "2027-12-31T00:00:00Z",
 		"FilmLength": "0",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/spider-manfreshmanyear_lob_crd_01.jpg",
+		"Poster": "https://cdn.marvel.com/content/1x/spider-manfreshmanyear_lob_crd_01.jpg",
 		"TV": true,
 		"Link": ""
 	},
 	{
-		"ID": "24",
 		"Title": "Marvel Zombies",
 		"ReleaseDate": "2027-12-31T00:00:00Z",
 		"FilmLength": "0",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/marvelzombies_lob_crd_01.jpg",
+		"Poster": "https://cdn.marvel.com/content/1x/marvelzombies_lob_crd_01.jpg",
 		"TV": true,
 		"Link": ""
 	},
 	{
-		"ID": "25",
 		"Title": "Werewolf By Night",
 		"ReleaseDate": "2022-10-07T00:00:00Z",
 		"FilmLength": "54m",
-		"Poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/werewolfbynight_lob_crd_01.jpg",
+		"Poster": "https://cdn.marvel.com/content/1x/werewolfbynight_lob_crd_01.jpg",
 		"TV": false,
 		"Link": "https://www.disneyplus.com/movies/werewolf-by-night/J1sCDfT3MaDl"
 	},
 	{
-		"ID": "26",
-		"Title": "Untitled Deadpool Movie",
-		"ReleaseDate": "2024-05-03T00:00:00Z",
-		"FilmLength": "0",
-		"Poster": "https://cdn.marvel.com/content/1x/deadpool3_lob_crd_01.jpg",
+		"Title": "Deadpool & Wolverine",
+		"ReleaseDate": "2024-07-26T00:00:00Z",
+		"FilmLength": "2h 7m",
+		"Poster": "https://cdn.marvel.com/content/1x/deadpoolandwolverine_lob_crd_03.jpg",
 		"TV": false,
 		"Link": ""
 	}
