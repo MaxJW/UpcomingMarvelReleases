@@ -61,27 +61,36 @@
     </button>
     {#if isOpen}
         <div id="old_releases" transition:slide={{ duration: 300 }}>
-            {#each releases[0] as release}
+            {#each releases[0].slice(1) as release}
                 <Movie
-                    bind:title={release.Title}
-                    bind:date={release.ReleaseDate}
-                    bind:length={release.FilmLength}
-                    bind:poster={release.Poster}
-                    bind:tv={release.TV}
-                    bind:disneyplus={release.Link}
+                    title={release.Title}
+                    date={release.ReleaseDate}
+                    length={release.FilmLength}
+                    poster={release.Poster}
+                    tv={release.TV}
+                    disneyplus={release.Link}
                 />
             {/each}
         </div>
     {/if}
     <div id="new_releases">
+        <Movie
+            title={releases[0][0].Title}
+            date={releases[0][0].ReleaseDate}
+            length={releases[0][0].FilmLength}
+            poster={releases[0][0].Poster}
+            tv={releases[0][0].TV}
+            disneyplus={releases[0][0].Link}
+            latest
+        />
         {#each releases[1] as release}
             <Movie
-                bind:title={release.Title}
-                bind:date={release.ReleaseDate}
-                bind:length={release.FilmLength}
-                bind:poster={release.Poster}
-                bind:tv={release.TV}
-                bind:disneyplus={release.Link}
+                title={release.Title}
+                date={release.ReleaseDate}
+                length={release.FilmLength}
+                poster={release.Poster}
+                tv={release.TV}
+                disneyplus={release.Link}
             />
         {/each}
     </div>

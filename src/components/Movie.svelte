@@ -4,12 +4,13 @@
     import duration from 'dayjs/plugin/duration.js';
     import relativeTime from 'dayjs/plugin/relativeTime';
 
-    export let title;
-    export let date;
-    export let length;
-    export let poster;
-    export let tv;
-    export let disneyplus;
+    export let title: string;
+    export let date: string;
+    export let length: string;
+    export let poster: string;
+    export let tv: boolean;
+    export let disneyplus: string;
+    export let latest: boolean = false;
 
     dayjs.extend(duration);
     dayjs.extend(relativeTime);
@@ -56,7 +57,7 @@
 <svelte:window bind:innerWidth={w} />
 
 <div class="tile">
-    <div class="poster-container" bind:clientWidth={posterWidth}>
+    <div class="poster-container" class:latest bind:clientWidth={posterWidth}>
         <a href={disneyplus ? disneyplus : '#/'}>
             <img src={poster} alt={title} class="poster" />
         </a>
@@ -67,6 +68,11 @@
         {/if}
     </div>
     <div class="details" style="padding-left: calc({posterWidth}px + var(--additional-padding))">
+        {#if latest}
+            <div class="latest-banner">
+                <h3>Latest Release!</h3>
+            </div>
+        {/if}
         <h2>{title}</h2>
         <h4>{dayjs(date).format('MMMM D, YYYY')}</h4>
         <div class="blocks">
@@ -131,7 +137,6 @@
         margin-left: 1px; /* Removes pixel corner in poster */
         background: var(--background);
         --additional-padding: 10px;
-        overflow: hidden;
 
         display: flex;
         flex-direction: column;
@@ -226,6 +231,22 @@
         color: var(--text-main);
         border-radius: 5px;
         font-size: 0.9rem;
+    }
+
+    .latest-banner {
+        position: absolute;
+        top: -20px;
+        z-index: 99999;
+        background-color: #ffd310;
+        border-radius: 20px;
+        padding: 0.22rem 0.6rem;
+        font-weight: 700;
+        user-select: none;
+    }
+
+    .latest-banner h3 {
+        margin: 0;
+        color: #000;
     }
 
     /* Desktop */
