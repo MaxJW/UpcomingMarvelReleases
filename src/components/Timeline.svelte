@@ -1,39 +1,31 @@
 <script lang="ts">
     import Movie from './Movie.svelte';
     import { slide } from 'svelte/transition';
+    import marvelData from '../marvel.json';
 
     let isOpen = false;
     const toggle = () => (isOpen = !isOpen);
 
     function custom_sort(a, b) {
-        return new Date(a.ReleaseDate).getTime() - new Date(b.ReleaseDate).getTime();
+        return new Date(a.release_date).getTime() - new Date(b.release_date).getTime();
     }
-    async function fetchReleases() {
-        const res = await fetch(
-            'https://raw.githubusercontent.com/MaxJW/UpcomingMarvelReleases/main/marvel.json',
+    function fetchReleases() {
+        marvelData.sort(custom_sort);
+        let ToDate = new Date();
+        const [r_old, r_new] = marvelData.reduce(
+            ([r_old, r_new], item) => {
+                (new Date(item.release_date).getTime() < ToDate.getTime() ? r_old : r_new).push(
+                    item,
+                );
+                return [r_old, r_new];
+            },
+            [[], []],
         );
-        const data = await res.json();
-
-        if (res.ok) {
-            data.sort(custom_sort);
-            let ToDate = new Date();
-            const [r_old, r_new] = data.reduce(
-                ([r_old, r_new], item) => {
-                    (new Date(item.ReleaseDate).getTime() < ToDate.getTime() ? r_old : r_new).push(
-                        item,
-                    );
-                    return [r_old, r_new];
-                },
-                [[], []],
-            );
-            r_old.reverse();
-            return [r_old, r_new];
-        } else {
-            throw new Error(data);
-        }
+        r_old.reverse();
+        return [r_old, r_new];
     }
 
-    let releases = fetchReleases();
+    let releases = Promise.resolve(fetchReleases());
 </script>
 
 {#await releases}
@@ -63,34 +55,31 @@
         <div id="old_releases" transition:slide={{ duration: 300 }}>
             {#each releases[0].slice(1) as release}
                 <Movie
-                    title={release.Title}
-                    date={release.ReleaseDate}
-                    length={release.FilmLength}
-                    poster={release.Poster}
-                    tv={release.TV}
-                    disneyplus={release.Link}
+                    title={release.title}
+                    date={release.release_date}
+                    length={release.runtime}
+                    poster={release.poster}
+                    disneyplus={release.link}
                 />
             {/each}
         </div>
     {/if}
     <div id="new_releases">
         <Movie
-            title={releases[0][0].Title}
-            date={releases[0][0].ReleaseDate}
-            length={releases[0][0].FilmLength}
-            poster={releases[0][0].Poster}
-            tv={releases[0][0].TV}
-            disneyplus={releases[0][0].Link}
+            title={releases[0][0].title}
+            date={releases[0][0].release_date}
+            length={releases[0][0].runtime}
+            poster={releases[0][0].poster}
+            disneyplus={releases[0][0].link}
             latest
         />
         {#each releases[1] as release}
             <Movie
-                title={release.Title}
-                date={release.ReleaseDate}
-                length={release.FilmLength}
-                poster={release.Poster}
-                tv={release.TV}
-                disneyplus={release.Link}
+                title={release.title}
+                date={release.release_date}
+                length={release.runtime}
+                poster={release.poster}
+                disneyplus={release.link}
             />
         {/each}
     </div>

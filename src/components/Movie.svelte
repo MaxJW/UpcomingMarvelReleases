@@ -8,7 +8,6 @@
     export let date: string;
     export let length: string;
     export let poster: string;
-    export let tv: boolean;
     export let disneyplus: string;
     export let latest: boolean = false;
 
@@ -70,15 +69,17 @@
     <div class="details" style="padding-left: calc({posterWidth}px + var(--additional-padding))">
         {#if latest}
             <div class="latest-banner">
-                <h3>Latest Release!</h3>
+                <span>Latest Release!</span>
             </div>
         {/if}
-        <h2>{title}</h2>
-        <h4>{dayjs(date).format('MMMM D, YYYY')}</h4>
-        <div class="blocks">
-            <p class="film-length">
-                {length != '0' ? length + (tv ? ' episodes' : '') : 'Unknown'}
-            </p>
+        <div class="info">
+            <h2>{title}</h2>
+            <h4>{dayjs(date).format('MMMM D, YYYY')}</h4>
+            <div class="blocks">
+                <p class="film-length">
+                    {length != '0' ? length : 'Unknown'}
+                </p>
+            </div>
         </div>
         {#if done === false}
             <p class="countdown">
@@ -239,12 +240,13 @@
         z-index: 99999;
         background-color: #ffd310;
         border-radius: 20px;
-        padding: 0.22rem 0.6rem;
+        padding: 0.24rem 0.64rem;
         font-weight: 700;
         user-select: none;
     }
 
-    .latest-banner h3 {
+    .latest-banner span {
+        font-size: 16px;
         margin: 0;
         color: #000;
     }
