@@ -1,772 +1,772 @@
 [
-  {
-    "title": "Blade",
-    "release_date": null,
-    "runtime": "2h 1m",
-    "poster": "https://cdn.marvel.com/content/1x/blade_lob_crd_01_0.jpg",
-    "link": ""
-  },
-  {
-    "title": "Avengers: Secret Wars",
-    "release_date": "2027-05-06T00:00:00Z",
-    "runtime": "0",
-    "poster": "https://cdn.marvel.com/content/1x/avengerssecretwars_lob_crd_02.jpg",
-    "link": ""
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "release_date": "2026-07-30T00:00:00Z",
-    "runtime": "0",
-    "poster": "https://cdn.marvel.com/content/1x/spidermanbrandnewday_lob_crd_01.jpg",
-    "link": ""
-  },
-  {
-    "title": "Avengers: Doomsday",
-    "release_date": "2026-04-30T00:00:00Z",
-    "runtime": "0",
-    "poster": "https://cdn.marvel.com/content/1x/avengersdoomsday_lob_crd_01.jpg",
-    "link": ""
-  },
-  {
-    "title": "Wonder Man",
-    "release_date": "2025-12-01T00:00:00Z",
-    "runtime": "0",
-    "poster": "https://cdn.marvel.com/content/1x/wonderman_lob_crd_01.jpg",
-    "link": ""
-  },
-  {
-    "title": "Marvel Zombies",
-    "release_date": "2025-10-02T00:00:00Z",
-    "runtime": "0",
-    "poster": "https://cdn.marvel.com/content/1x/marvelzombies_lob_crd_02.jpg",
-    "link": ""
-  },
-  {
-    "title": "Eyes of Wakanda",
-    "release_date": "2025-08-05T00:00:00Z",
-    "runtime": "0",
-    "poster": "https://cdn.marvel.com/content/1x/eyesofwakanda_lob_crd_01.jpg",
-    "link": ""
-  },
-  {
-    "title": "The Fantastic Four: First Steps",
-    "release_date": "2025-07-24T00:00:00Z",
-    "runtime": "0",
-    "poster": "https://cdn.marvel.com/content/1x/thefantasticfourfirststeps_lob_crd_03.jpg",
-    "link": ""
-  },
-  {
-    "title": "Ironheart",
-    "release_date": "2025-06-23T00:00:00Z",
-    "runtime": "0",
-    "poster": "https://cdn.marvel.com/content/1x/ironheart_lob_crd_03.jpg",
-    "link": ""
-  },
-  {
-    "title": "The New Avengers",
-    "release_date": "2025-05-01T00:00:00Z",
-    "runtime": "1h 22m",
-    "poster": "https://cdn.marvel.com/content/1x/thenewavengers_lob_crd_01.jpg",
-    "link": ""
-  },
-  {
-    "title": "Daredevil: Born Again",
-    "release_date": "2025-03-04T00:00:00Z",
-    "runtime": "9 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/daredevilbornagain_lob_crd_03.jpg",
-    "link": "https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk"
-  },
-  {
-    "title": "Captain America: Brave New World",
-    "release_date": "2025-02-14T00:00:00Z",
-    "runtime": "1h 59m",
-    "poster": "https://cdn.marvel.com/content/1x/captainamericabravenewworld_lob_crd_05.jpg",
-    "link": ""
-  },
-  {
-    "title": "Your Friendly Neighborhood Spider-Man",
-    "release_date": "2025-01-29T00:00:00Z",
-    "runtime": "10 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/yourfriendlyneighborhoodspiderman_lob_crd_03_0.jpg",
-    "link": "https://www.disneyplus.com/series/your-friendly-neighborhood-spider-man/7e5MeUbivjlO"
-  },
-  {
-    "title": "Marvel's Iron Man and his Awesome Friends",
-    "release_date": "2025-01-01T00:00:00Z",
-    "runtime": "0",
-    "poster": "https://cdn.marvel.com/content/1x/marvelsironmanandhisawesomefriends_lob_crd_01.jpg",
-    "link": ""
-  },
-  {
-    "title": "What If...? | Season 3",
-    "release_date": "2024-12-22T00:00:00Z",
-    "runtime": "8 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/whatifs3_lob_crd_01.jpg",
-    "link": "https://www.disneyplus.com/series/details/7672ZVj1ZxU9/"
-  },
-  {
-    "title": "LEGO Marvel Avengers: Mission Demolition",
-    "release_date": "2024-10-17T00:00:00Z",
-    "runtime": "0",
-    "poster": "https://cdn.marvel.com/content/1x/legomarvelavengersmissiondemolition_lob_crd_01.jpg",
-    "link": "https://www.disneyplus.com/movies/lego-marvel-avengers-mission-demolition/2SFUclISa5af"
-  },
-  {
-    "title": "Agatha All Along",
-    "release_date": "2024-09-17T00:00:00Z",
-    "runtime": "9 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/agathaallalong_lob_crd_02.jpg",
-    "link": "https://www.disneyplus.com/series/agatha-all-along/6Nf0RIVHbJnh"
-  },
-  {
-    "title": "Deadpool & Wolverine",
-    "release_date": "2024-07-25T00:00:00Z",
-    "runtime": "2h 8m",
-    "poster": "https://cdn.marvel.com/content/1x/deadpoolandwolverine_lob_crd_03.jpg",
-    "link": "https://www.disneyplus.com/movies/deadpool-wolverine/4TQTHo9Qto2m"
-  },
-  {
-    "title": "Marvel's Hit-Monkey Season 2",
-    "release_date": "2024-07-14T00:00:00Z",
-    "runtime": "10 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/marvelshitmonkeys2_lob_crd_01.jpg",
-    "link": ""
-  },
-  {
-    "title": "X-Men '97",
-    "release_date": "2024-03-20T00:00:00Z",
-    "runtime": "10 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/xmen97_lob_crd_02.jpg",
-    "link": "https://www.disneyplus.com/series/x-men-97/vc1XIz90ZNH5"
-  },
-  {
-    "title": "Echo",
-    "release_date": "2024-01-09T00:00:00Z",
-    "runtime": "5 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/echo_lob_crd_02.jpg",
-    "link": "https://www.disneyplus.com/series/details/4unBxmuv2B8B"
-  },
-  {
-    "title": "What If...? | Season 2",
-    "release_date": "2023-12-22T00:00:00Z",
-    "runtime": "9 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/whatifs2_lob_crd_02.jpg",
-    "link": "https://www.disneyplus.com/series/details/7672ZVj1ZxU9"
-  },
-  {
-    "title": "The Marvels",
-    "release_date": "2023-11-10T00:00:00Z",
-    "runtime": "1h 45m",
-    "poster": "https://cdn.marvel.com/content/1x/themarvels_lob_crd_05.jpg",
-    "link": "https://www.disneyplus.com/movies/the-marvels/3sAcYG9CeWFw"
-  },
-  {
-    "title": "LEGO Marvel Avengers: Code Red",
-    "release_date": "2023-10-26T00:00:00Z",
-    "runtime": "0",
-    "poster": "https://cdn.marvel.com/content/1x/legomarvelavengerscodered_lob_crd_01.jpg",
-    "link": "https://www.disneyplus.com/movies/lego-marvel-avengers-code-red/5lpdhc4RUbRG"
-  },
-  {
-    "title": "I Am Groot | Season 2",
-    "release_date": "2023-09-05T00:00:00Z",
-    "runtime": "5 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/iamgroots2_lob_crd_01.jpg",
-    "link": "https://www.disneyplus.com/series/i-am-groot/3FfVmffm1ijj"
-  },
-  {
-    "title": "Secret Invasion",
-    "release_date": "2023-06-20T00:00:00Z",
-    "runtime": "6 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/secretinvasion_lob_crd_04.jpg",
-    "link": "https://www.disneyplus.com/series/secret-invasion/3iHQtD1BDpgN"
-  },
-  {
-    "title": "Stan Lee",
-    "release_date": "2023-06-15T00:00:00Z",
-    "runtime": "28 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/stanlee_lob_crd_01.jpg",
-    "link": "https://www.disneyplus.com/movies/stan-lee/2rcOdxbFJSzw"
-  },
-  {
-    "title": "Guardians of the Galaxy Vol. 3",
-    "release_date": "2023-05-04T00:00:00Z",
-    "runtime": "2h 30m",
-    "poster": "https://cdn.marvel.com/content/1x/guardiansofthegalaxyvolume3_lob_crd_03.jpg",
-    "link": "https://www.disneyplus.com/movies/guardians-of-the-galaxy-vol-3/1tmc3nPw04S2"
-  },
-  {
-    "title": "MPower",
-    "release_date": "2023-03-08T00:00:00Z",
-    "runtime": "4 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/mpower_lob_crd_02.jpg",
-    "link": "https://www.disneyplus.com/series/mpower/4NRWwrDEO3Uy"
-  },
-  {
-    "title": "Voices Rising: The Music of Wakanda Forever",
-    "release_date": "2023-02-28T00:00:00Z",
-    "runtime": "3 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/voicesrisingwf_lob_crd_01.jpg",
-    "link": "https://www.disneyplus.com/series/voices-rising-the-music-of-wakanda-forever/4yiNiKQxkcV6"
-  },
-  {
-    "title": "Ant-Man and The Wasp: Quantumania",
-    "release_date": "2023-02-17T00:00:00Z",
-    "runtime": "2h 5m",
-    "poster": "https://cdn.marvel.com/content/1x/antmanandthewaspquantumania_lob_crd_03.jpg",
-    "link": "https://www.disneyplus.com/movies/ant-man-and-the-wasp-quantumania/7OLRMMgd1vkx"
-  },
-  {
-    "title": "Marvel's Moon Girl and Devil Dinosaur",
-    "release_date": "2023-02-10T00:00:00Z",
-    "runtime": "40 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/moongirlanddevildinosaur_lob_crd_03.jpg",
-    "link": "https://www.disneyplus.com/series/moon-girl-and-devil-dinosaur/35eKzlQnJk2i"
-  },
-  {
-    "title": "The Guardians of the Galaxy Holiday Special",
-    "release_date": "2022-11-25T00:00:00Z",
-    "runtime": "0",
-    "poster": "https://cdn.marvel.com/content/1x/theguardiansofthegalaxyholidayspecial_lob_crd_02.jpg",
-    "link": ""
-  },
-  {
-    "title": "Black Panther: Wakanda Forever",
-    "release_date": "2022-11-11T00:00:00Z",
-    "runtime": "2h 42m",
-    "poster": "https://cdn.marvel.com/content/1x/blackpantherwakandaforever_lob_crd_06.jpg",
-    "link": "https://www.disneyplus.com/movies/black-panther-wakanda-forever/7MAONYZ92wDT"
-  },
-  {
-    "title": "Werewolf By Night",
-    "release_date": "2022-10-06T00:00:00Z",
-    "runtime": "0",
-    "poster": "https://cdn.marvel.com/content/1x/werewolfbynight_lob_crd_01.jpg",
-    "link": "https://www.disneyplus.com/movies/werewolf-by-night/J1sCDfT3MaDl"
-  },
-  {
-    "title": "She-Hulk: Attorney-at-Law",
-    "release_date": "2022-08-17T00:00:00Z",
-    "runtime": "9 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/shehulk_lob_crd_04.jpg",
-    "link": "https://www.disneyplus.com/series/she-hulk-attorney-at-law/gPwaYusKqRQh"
-  },
-  {
-    "title": "I Am Groot | Season 1",
-    "release_date": "2022-08-09T00:00:00Z",
-    "runtime": "10 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/iamgroot_lob_crd_04.jpg",
-    "link": "https://www.disneyplus.com/series/i-am-groot/3FfVmffm1ijj"
-  },
-  {
-    "title": "Thor: Love and Thunder",
-    "release_date": "2022-07-07T00:00:00Z",
-    "runtime": "1h 59m",
-    "poster": "https://cdn.marvel.com/content/1x/thorloveandthunder_lob_crd_04.jpg",
-    "link": "https://www.disneyplus.com/movies/thor-love-and-thunder/3htR8mRAZMoT"
-  },
-  {
-    "title": "Ms. Marvel",
-    "release_date": "2022-06-07T00:00:00Z",
-    "runtime": "6 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/msmarvel_lob_crd_04.jpg",
-    "link": "https://www.disneyplus.com/series/ms-marvel/45BsikoMcOOo"
-  },
-  {
-    "title": "Doctor Strange in the Multiverse of Madness",
-    "release_date": "2022-05-05T00:00:00Z",
-    "runtime": "2h 6m",
-    "poster": "https://cdn.marvel.com/content/1x/doctorstrangeinthemultiverseofmadness_lob_crd_02_3.jpg",
-    "link": "https://www.disneyplus.com/movies/doctor-strange-in-the-multiverse-of-madness/27EiqSW4jIyH"
-  },
-  {
-    "title": "Moon Knight",
-    "release_date": "2022-03-29T00:00:00Z",
-    "runtime": "6 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/moonknight_lob_crd_05.jpg",
-    "link": "https://www.disneyplus.com/series/moon-knight/4S3oOF1knocS"
-  },
-  {
-    "title": "Spider-Man: No Way Home",
-    "release_date": "2021-12-17T00:00:00Z",
-    "runtime": "2h 28m",
-    "poster": "https://cdn.marvel.com/content/1x/spider-mannowayhome_lob_crd_03.jpg",
-    "link": ""
-  },
-  {
-    "title": "Hawkeye",
-    "release_date": "2021-11-24T00:00:00Z",
-    "runtime": "6 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/hawkeye_lob_crd_04.jpg",
-    "link": "https://www.disneyplus.com/series/hawkeye/11Zy8m9Dkj5l"
-  },
-  {
-    "title": "Marvel's Hit-Monkey Season 1",
-    "release_date": "2021-11-17T00:00:00Z",
-    "runtime": "20 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/hitmonkey_lob_crd_02.jpg",
-    "link": ""
-  },
-  {
-    "title": "Eternals",
-    "release_date": "2021-11-05T00:00:00Z",
-    "runtime": "2h 36m",
-    "poster": "https://cdn.marvel.com/content/1x/eternals_lob_crd_06.jpg",
-    "link": "https://www.disneyplus.com/movies/eternals/5cmhJAtkt6Jk"
-  },
-  {
-    "title": "Shang-Chi and The Legend of The Ten Rings",
-    "release_date": "2021-09-02T00:00:00Z",
-    "runtime": "2h 12m",
-    "poster": "https://cdn.marvel.com/content/1x/shangchi_lob_crd_07.jpg",
-    "link": "https://www.disneyplus.com/movies/shang-chi-and-the-legend-of-the-ten-rings/5GyV9sf9Y041"
-  },
-  {
-    "title": "What If...? | Season 1",
-    "release_date": "2021-08-10T00:00:00Z",
-    "runtime": "26 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/whatif_lob_crd_01.jpg",
-    "link": "https://www.disneyplus.com/series/what-if/7672ZVj1ZxU9"
-  },
-  {
-    "title": "Marvel's Spidey and his Amazing Friends",
-    "release_date": "2021-08-05T00:00:00Z",
-    "runtime": "168 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/spidey_lob_crd_01.jpg",
-    "link": ""
-  },
-  {
-    "title": "Black Widow",
-    "release_date": "2021-07-08T00:00:00Z",
-    "runtime": "2h 14m",
-    "poster": "https://cdn.marvel.com/content/1x/blackwidow_lob_crd_06.jpg",
-    "link": "https://www.disneyplus.com/welcome/new-3"
-  },
-  {
-    "title": "Loki | Season 2",
-    "release_date": "2021-06-08T00:00:00Z",
-    "runtime": "6 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/lokis2_lob_crd_04.jpg",
-    "link": "https://www.disneyplus.com/series/loki/6pARMvILBGzF"
-  },
-  {
-    "title": "Loki | Season 1",
-    "release_date": "2021-06-08T00:00:00Z",
-    "runtime": "12 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/lokis2_lob_crd_04.jpg",
-    "link": "https://www.disneyplus.com/series/loki/6pARMvILBGzF"
-  },
-  {
-    "title": "Marvel's M.O.D.O.K.",
-    "release_date": "2021-05-20T00:00:00Z",
-    "runtime": "10 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/modok_lob_crd-02_1.jpg",
-    "link": ""
-  },
-  {
-    "title": "The Falcon and The Winter Soldier",
-    "release_date": "2021-03-19T00:00:00Z",
-    "runtime": "6 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/falcws_lob_crd_03.jpg",
-    "link": "https://www.disneyplus.com/series/the-falcon-and-the-winter-soldier/4gglDBMx8icA/"
-  },
-  {
-    "title": "Marvel Studios Assembled",
-    "release_date": "2021-03-12T00:00:00Z",
-    "runtime": "6 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/assembled_lob_crd-01.jpg",
-    "link": ""
-  },
-  {
-    "title": "Marvel's Behind the Mask",
-    "release_date": "2021-02-12T00:00:00Z",
-    "runtime": "23 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/behindthemask_lob_crd_02.jpg",
-    "link": ""
-  },
-  {
-    "title": "WandaVision",
-    "release_date": "2021-01-15T00:00:00Z",
-    "runtime": "9 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/wandavision_lob_crd_06.jpg",
-    "link": "https://www.disneyplus.com/series/wandavision/4SrN28ZjDLwH/"
-  },
-  {
-    "title": "Marvel Studios: Legends",
-    "release_date": "2021-01-08T00:00:00Z",
-    "runtime": "46 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/legends_lob_crd_01_0.jpg",
-    "link": ""
-  },
-  {
-    "title": "Marvel's 616",
-    "release_date": "2020-11-20T00:00:00Z",
-    "runtime": "8 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/marvel616_lob_crd_02.jpg",
-    "link": "https://www.disneyplus.com/series/marvels-616/6m8RQWkU0DLX/"
-  },
-  {
-    "title": "Marvel's Agents of S.H.I.E.L.D.",
-    "release_date": "2020-05-26T00:00:00Z",
-    "runtime": "136 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/agentsofshields7_lob_crd_04.jpg",
-    "link": "https://www.disneyplus.com/series/agents-of-shield/2UT4VQrwpVgi"
-  },
-  {
-    "title": "Marvel's Runaways | Season 3",
-    "release_date": "2019-12-13T00:00:00Z",
-    "runtime": "10 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/runaways_s3_lob_crd_03_0.jpg",
-    "link": ""
-  },
-  {
-    "title": "Spider-Man: Far From Home",
-    "release_date": "2019-07-01T00:00:00Z",
-    "runtime": "2h 9m",
-    "poster": "https://cdn.marvel.com/content/1x/spider-manfarfromhome_lob_crd_04_0.jpg",
-    "link": ""
-  },
-  {
-    "title": "Legion | Season 3",
-    "release_date": "2019-06-23T00:00:00Z",
-    "runtime": "8 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/legion_lob_crd_04_0.jpg",
-    "link": ""
-  },
-  {
-    "title": "Marvel's Jessica Jones",
-    "release_date": "2019-06-13T00:00:00Z",
-    "runtime": "39 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/jessicajoness3_lob_crd_04.jpg",
-    "link": "https://www.disneyplus.com/series/jessica-jones/4LX4rNmINp5y"
-  },
-  {
-    "title": "X-Men: Dark Phoenix",
-    "release_date": "2019-06-06T00:00:00Z",
-    "runtime": "1h 54m",
-    "poster": "https://cdn.marvel.com/content/1x/darkphoenix_lob_crd_01_0.jpg",
-    "link": ""
-  },
-  {
-    "title": "Avengers: Endgame",
-    "release_date": "2019-04-25T00:00:00Z",
-    "runtime": "3h 1m",
-    "poster": "https://cdn.marvel.com/content/1x/avengersendgame_lob_crd_05.jpg",
-    "link": "https://www.disneyplus.com/movies/marvel-studios-avengers-endgame/aRbVJUb2h2Rf/"
-  },
-  {
-    "title": "Marvel's Cloak & Dagger | Season 2",
-    "release_date": "2019-04-03T00:00:00Z",
-    "runtime": "10 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/cloakanddagger_lob_crd_02.jpg",
-    "link": ""
-  },
-  {
-    "title": "Captain Marvel",
-    "release_date": "2019-03-08T00:00:00Z",
-    "runtime": "2h 4m",
-    "poster": "https://cdn.marvel.com/content/1x/captainmarvel_lob_crd_06.jpg",
-    "link": "https://www.disneyplus.com/movies/marvel-studios-captain-marvel/38xJGlLAQy9a/"
-  },
-  {
-    "title": "Marvel's The Punisher",
-    "release_date": "2019-01-18T00:00:00Z",
-    "runtime": "26 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/thepunishers2_lob_crd_04.jpg",
-    "link": "https://www.disneyplus.com/series/the-punisher/6JOZHgU6cBS3"
-  },
-  {
-    "title": "Marvel's Hero Project | Season 1",
-    "release_date": "2019-01-01T00:00:00Z",
-    "runtime": "20 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/marvelsheroproject_lob_crd_01.jpg",
-    "link": ""
-  },
-  {
-    "title": "Marvel's Runaways | Season 2",
-    "release_date": "2018-12-21T00:00:00Z",
-    "runtime": "13 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/runaways_lob_crd_02_0.jpg",
-    "link": ""
-  },
-  {
-    "title": "Marvel's Daredevil",
-    "release_date": "2018-10-18T00:00:00Z",
-    "runtime": "39 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/daredevilss3_lob_crd_02.jpg",
-    "link": "https://www.disneyplus.com/series/daredevil/5jKSWL7ZMg50"
-  },
-  {
-    "title": "Venom",
-    "release_date": "2018-10-04T00:00:00Z",
-    "runtime": "1h 52m",
-    "poster": "https://cdn.marvel.com/content/1x/venom_lob_crd_01.jpg",
-    "link": "https://www.disneyplus.com/movies/venom/1w4uv4K4arER"
-  },
-  {
-    "title": "The Gifted | Season 2",
-    "release_date": "2018-09-24T00:00:00Z",
-    "runtime": "16 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/thegifteds2_lob_crd_01_0.jpg",
-    "link": ""
-  },
-  {
-    "title": "Marvel's Iron Fist",
-    "release_date": "2018-09-06T00:00:00Z",
-    "runtime": "23 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/ironfists2_lob_crd_02.jpg",
-    "link": "https://www.disneyplus.com/series/iron-fist/24YlE6bSZy6E"
-  },
-  {
-    "title": "Ant-Man and The Wasp",
-    "release_date": "2018-07-05T00:00:00Z",
-    "runtime": "1h 59m",
-    "poster": "https://cdn.marvel.com/content/1x/ant-manthewasp_lob_crd_01_0.jpg",
-    "link": ""
-  },
-  {
-    "title": "Marvel's Luke Cage",
-    "release_date": "2018-06-21T00:00:00Z",
-    "runtime": "26 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/lukecages2_lob_crd_03.jpg",
-    "link": "https://www.disneyplus.com/series/luke-cage/1L458elR85KN"
-  },
-  {
-    "title": "Marvel's Cloak & Dagger | Season 1",
-    "release_date": "2018-06-06T00:00:00Z",
-    "runtime": "20 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/cloakanddagger_lob_crd_01_0.jpg",
-    "link": ""
-  },
-  {
-    "title": "Deadpool 2",
-    "release_date": "2018-05-17T00:00:00Z",
-    "runtime": "2h 0m",
-    "poster": "https://cdn.marvel.com/content/1x/deadpool2_lob_crd_02.jpg",
-    "link": "https://www.disneyplus.com/movies/deadpool-2/LSuXSQ3S5mxU"
-  },
-  {
-    "title": "Avengers: Infinity War",
-    "release_date": "2018-04-26T00:00:00Z",
-    "runtime": "2h 29m",
-    "poster": "https://cdn.marvel.com/content/1x/avengersinfinitywar_lob_crd_02.jpg",
-    "link": ""
-  },
-  {
-    "title": "Legion | Season 2",
-    "release_date": "2018-04-02T00:00:00Z",
-    "runtime": "11 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/legion_lob_crd_02.jpg",
-    "link": ""
-  },
-  {
-    "title": "Black Panther",
-    "release_date": "2018-02-16T00:00:00Z",
-    "runtime": "2h 15m",
-    "poster": "https://cdn.marvel.com/content/1x/blackpanther_lob_crd_01_5.jpg",
-    "link": "https://www.disneyplus.com/movies/marvel-studios-black-panther/1GuXuYPj99Ke/"
-  },
-  {
-    "title": "Marvel's Avengers",
-    "release_date": "2018-01-01T00:00:00Z",
-    "runtime": "39 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/animatedavengers_lob_crd_02_0.jpg",
-    "link": ""
-  },
-  {
-    "title": "Marvel's Guardians of the Galaxy",
-    "release_date": "2018-01-01T00:00:00Z",
-    "runtime": "77 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/animatedgotg_lob_crd_01_0.jpg",
-    "link": ""
-  },
-  {
-    "title": "Marvel Rising",
-    "release_date": "2018-01-01T00:00:00Z",
-    "runtime": "12 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/animatedmarvelrising_lob_crd_01_0.jpg",
-    "link": ""
-  },
-  {
-    "title": "Marvel's Spider-Man",
-    "release_date": "2018-01-01T00:00:00Z",
-    "runtime": "57 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/animatedspider-man_lob_crd_01_0.jpg",
-    "link": ""
-  },
-  {
-    "title": "Marvel's Runaways | Season 1",
-    "release_date": "2017-11-21T00:00:00Z",
-    "runtime": "33 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/runaways_lob_crd_01_0.jpg",
-    "link": ""
-  },
-  {
-    "title": "Thor: Ragnarok",
-    "release_date": "2017-11-03T00:00:00Z",
-    "runtime": "2h 11m",
-    "poster": "https://cdn.marvel.com/content/1x/thorragnarok_lob_crd_03_0.jpg",
-    "link": "https://www.disneyplus.com/movies/marvel-studios-thor-ragnarok/3XqAT8UV8ojS/"
-  },
-  {
-    "title": "Marvel's Inhumans",
-    "release_date": "2017-09-28T00:00:00Z",
-    "runtime": "8 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/inhumanss1_lob_crd_02.jpg",
-    "link": "https://www.disneyplus.com/series/inhumans/6VZXWp9jaYsT"
-  },
-  {
-    "title": "Marvel's The Defenders",
-    "release_date": "2017-08-17T00:00:00Z",
-    "runtime": "8 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/defenderss1_lob_crd_03.jpg",
-    "link": "https://www.disneyplus.com/series/the-defenders/1vLuQyD9nTYk"
-  },
-  {
-    "title": "Spider-Man: Homecoming",
-    "release_date": "2017-07-06T00:00:00Z",
-    "runtime": "2h 13m",
-    "poster": "https://cdn.marvel.com/content/1x/spider-manhomecoming_lob_crd_02.jpg",
-    "link": "https://www.disneyplus.com/movies/spider-man-homecoming/4cLMEzWGqQaG"
-  },
-  {
-    "title": "Guardians of the Galaxy Vol. 2",
-    "release_date": "2017-05-04T00:00:00Z",
-    "runtime": "2h 17m",
-    "poster": "https://cdn.marvel.com/content/1x/guardiansofthegalaxyvol.2_lob_crd_01_0.jpg",
-    "link": "https://www.disneyplus.com/movies/marvel-studios-guardians-of-the-galaxy-vol-2/ZdRX4mMbp1gM/"
-  },
-  {
-    "title": "Logan",
-    "release_date": "2017-03-03T00:00:00Z",
-    "runtime": "2h 17m",
-    "poster": "https://cdn.marvel.com/content/1x/logan_lob_crd_02.jpg",
-    "link": "https://www.disneyplus.com/movies/logan/4BPdGjuoQAvT"
-  },
-  {
-    "title": "Legion | Season 1",
-    "release_date": "2017-02-08T00:00:00Z",
-    "runtime": "27 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/legion_lob_crd_01_4.jpg",
-    "link": ""
-  },
-  {
-    "title": "Doctor Strange",
-    "release_date": "2016-11-04T00:00:00Z",
-    "runtime": "1h 55m",
-    "poster": "https://cdn.marvel.com/content/1x/doctorstrange_lob_crd_01_7.jpg",
-    "link": "https://www.disneyplus.com/movies/marvel-studios-doctor-strange/4GgMJ1aHKHA2/"
-  },
-  {
-    "title": "X-Men: Apocalypse",
-    "release_date": "2016-05-26T00:00:00Z",
-    "runtime": "2h 24m",
-    "poster": "https://cdn.marvel.com/content/1x/fox_x-menapocalypse_lob_crd_01_0.jpg",
-    "link": ""
-  },
-  {
-    "title": "Captain America: Civil War",
-    "release_date": "2016-05-05T00:00:00Z",
-    "runtime": "2h 27m",
-    "poster": "https://cdn.marvel.com/content/1x/captainamericacivilwar_lob_crd_01_10.jpg",
-    "link": ""
-  },
-  {
-    "title": "Deadpool",
-    "release_date": "2016-02-12T00:00:00Z",
-    "runtime": "1h 48m",
-    "poster": "https://cdn.marvel.com/content/1x/deadpool_lob_crd_02.jpg",
-    "link": "https://www.disneyplus.com/movies/deadpool/3Kh13Lrb0Pnv"
-  },
-  {
-    "title": "Marvel's Agent Carter",
-    "release_date": "2016-01-19T00:00:00Z",
-    "runtime": "18 episodes",
-    "poster": "https://cdn.marvel.com/content/1x/agentcarters2_lob_crd_03.jpg",
-    "link": "https://www.disneyplus.com/series/agent-carter/3rh3uclvsNsT"
-  },
-  {
-    "title": "Ant-Man",
-    "release_date": "2015-07-16T00:00:00Z",
-    "runtime": "1h 57m",
-    "poster": "https://cdn.marvel.com/content/1x/ant-man_lob_crd_01_9.jpg",
-    "link": "https://www.disneyplus.com/movies/marvel-studios-ant-man/5c92KVf1zgUX/"
-  },
-  {
-    "title": "Avengers: Age of Ultron",
-    "release_date": "2015-04-30T00:00:00Z",
-    "runtime": "2h 21m",
-    "poster": "https://cdn.marvel.com/content/1x/avengersageofultron_lob_crd_03_0.jpg",
-    "link": "https://www.disneyplus.com/movies/marvel-studios-avengers-age-of-ultron/76IUxY0rNHzt/"
-  },
-  {
-    "title": "Guardians of the Galaxy",
-    "release_date": "2014-07-31T00:00:00Z",
-    "runtime": "2h 1m",
-    "poster": "https://cdn.marvel.com/content/1x/guardiansofthegalaxy_lob_crd_03_0.jpg",
-    "link": "https://www.disneyplus.com/movies/marvel-studios-guardians-of-the-galaxy/1S4WM9h3KRR6/"
-  },
-  {
-    "title": "X-Men: Days of Future Past",
-    "release_date": "2014-05-22T00:00:00Z",
-    "runtime": "2h 12m",
-    "poster": "https://cdn.marvel.com/content/1x/fox_x-mendaysoffuturepast_lob_crd_01_0.jpg",
-    "link": ""
-  },
-  {
-    "title": "Captain America: The Winter Soldier",
-    "release_date": "2014-04-03T00:00:00Z",
-    "runtime": "2h 16m",
-    "poster": "https://cdn.marvel.com/content/1x/captainamericathewintersoldier_lob_crd_01_2.jpg",
-    "link": ""
-  },
-  {
-    "title": "Thor: The Dark World",
-    "release_date": "2013-11-08T00:00:00Z",
-    "runtime": "1h 52m",
-    "poster": "https://cdn.marvel.com/content/1x/thorthedarkworld_lob_crd_02.jpg",
-    "link": "https://www.disneyplus.com/movies/marvel-studios-thor-the-dark-world/ZHk7aM5xTbW7/"
-  },
-  {
-    "title": "Iron Man 3",
-    "release_date": "2013-05-02T00:00:00Z",
-    "runtime": "2h 10m",
-    "poster": "https://cdn.marvel.com/content/1x/ironman3_lob_crd_01_11.jpg",
-    "link": "https://www.disneyplus.com/movies/marvel-studios-iron-man-3/3s4Ihq7P2c6e/"
-  },
-  {
-    "title": "The Amazing Spider-Man",
-    "release_date": "2012-07-02T00:00:00Z",
-    "runtime": "2h 16m",
-    "poster": "https://cdn.marvel.com/content/1x/theamazingspider-man_lob_crd_01.jpg",
-    "link": "https://www.disneyplus.com/movies/-/1XUNbIGBs7TO"
-  },
-  {
-    "title": "The Avengers",
-    "release_date": "2012-05-03T00:00:00Z",
-    "runtime": "2h 23m",
-    "poster": "https://cdn.marvel.com/content/1x/theavengers_lob_crd_03_0.jpg",
-    "link": "https://www.disneyplus.com/movies/marvel-studios-the-avengers/2h6PcHFDbsPy/"
-  },
-  {
-    "title": "Spider-Man 3",
-    "release_date": "2007-05-03T00:00:00Z",
-    "runtime": "2h 19m",
-    "poster": "https://cdn.marvel.com/content/1x/spider-man3_lob_crd_01.jpg",
-    "link": "https://www.disneyplus.com/movies/spider-man-3/4GJkhwLlLW4D"
-  },
-  {
-    "title": "Spider-Man 2",
-    "release_date": "2004-06-29T00:00:00Z",
-    "runtime": "2h 7m",
-    "poster": "https://cdn.marvel.com/content/1x/spider-man2_lob_crd_01.jpg",
-    "link": "https://www.disneyplus.com/movies/spider-man-2/1CNlLz5NUKU6"
-  },
-  {
-    "title": "Spider-Man",
-    "release_date": "2002-05-02T00:00:00Z",
-    "runtime": "2h 13m",
-    "poster": "https://cdn.marvel.com/content/1x/spider-man_lob_crd_01.jpg",
-    "link": "https://www.disneyplus.com/movies/spider-man/4q3uPuyBeCkw"
-  }
+    {
+        "title": "Blade",
+        "release_date": null,
+        "runtime": "0",
+        "poster": "https://cdn.marvel.com/content/1x/blade_lob_crd_01_0.jpg",
+        "link": ""
+    },
+    {
+        "title": "Avengers: Secret Wars",
+        "release_date": "2027-05-06T00:00:00Z",
+        "runtime": "0",
+        "poster": "https://cdn.marvel.com/content/1x/avengerssecretwars_lob_crd_02.jpg",
+        "link": ""
+    },
+    {
+        "title": "Spider-Man: Brand New Day",
+        "release_date": "2026-07-30T00:00:00Z",
+        "runtime": "0",
+        "poster": "https://cdn.marvel.com/content/1x/spidermanbrandnewday_lob_crd_01.jpg",
+        "link": ""
+    },
+    {
+        "title": "Avengers: Doomsday",
+        "release_date": "2026-04-30T00:00:00Z",
+        "runtime": "0",
+        "poster": "https://cdn.marvel.com/content/1x/avengersdoomsday_lob_crd_01.jpg",
+        "link": ""
+    },
+    {
+        "title": "Wonder Man",
+        "release_date": "2025-12-01T00:00:00Z",
+        "runtime": "0 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/wonderman_lob_crd_01.jpg",
+        "link": ""
+    },
+    {
+        "title": "Marvel Zombies",
+        "release_date": "2025-10-02T00:00:00Z",
+        "runtime": "0 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/marvelzombies_lob_crd_02.jpg",
+        "link": ""
+    },
+    {
+        "title": "Eyes of Wakanda",
+        "release_date": "2025-08-05T00:00:00Z",
+        "runtime": "0 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/eyesofwakanda_lob_crd_01.jpg",
+        "link": ""
+    },
+    {
+        "title": "The Fantastic Four: First Steps",
+        "release_date": "2025-07-24T00:00:00Z",
+        "runtime": "0",
+        "poster": "https://cdn.marvel.com/content/1x/thefantasticfourfirststeps_lob_crd_03.jpg",
+        "link": ""
+    },
+    {
+        "title": "Ironheart",
+        "release_date": "2025-06-23T00:00:00Z",
+        "runtime": "0 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/ironheart_lob_crd_03.jpg",
+        "link": ""
+    },
+    {
+        "title": "The New Avengers",
+        "release_date": "2025-05-01T00:00:00Z",
+        "runtime": "1h 22m",
+        "poster": "https://cdn.marvel.com/content/1x/thenewavengers_lob_crd_01.jpg",
+        "link": ""
+    },
+    {
+        "title": "Daredevil: Born Again",
+        "release_date": "2025-03-04T00:00:00Z",
+        "runtime": "9 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/daredevilbornagain_lob_crd_03.jpg",
+        "link": "https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk"
+    },
+    {
+        "title": "Captain America: Brave New World",
+        "release_date": "2025-02-14T00:00:00Z",
+        "runtime": "1h 59m",
+        "poster": "https://cdn.marvel.com/content/1x/captainamericabravenewworld_lob_crd_05.jpg",
+        "link": ""
+    },
+    {
+        "title": "Your Friendly Neighborhood Spider-Man",
+        "release_date": "2025-01-29T00:00:00Z",
+        "runtime": "10 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/yourfriendlyneighborhoodspiderman_lob_crd_03_0.jpg",
+        "link": "https://www.disneyplus.com/series/your-friendly-neighborhood-spider-man/7e5MeUbivjlO"
+    },
+    {
+        "title": "Marvel's Iron Man and his Awesome Friends",
+        "release_date": "2025-01-01T00:00:00Z",
+        "runtime": "0 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/marvelsironmanandhisawesomefriends_lob_crd_01.jpg",
+        "link": ""
+    },
+    {
+        "title": "What If...? | Season 3",
+        "release_date": "2024-12-22T00:00:00Z",
+        "runtime": "8 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/whatifs3_lob_crd_01.jpg",
+        "link": "https://www.disneyplus.com/series/details/7672ZVj1ZxU9/"
+    },
+    {
+        "title": "LEGO Marvel Avengers: Mission Demolition",
+        "release_date": "2024-10-17T00:00:00Z",
+        "runtime": "0 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/legomarvelavengersmissiondemolition_lob_crd_01.jpg",
+        "link": "https://www.disneyplus.com/movies/lego-marvel-avengers-mission-demolition/2SFUclISa5af"
+    },
+    {
+        "title": "Agatha All Along",
+        "release_date": "2024-09-17T00:00:00Z",
+        "runtime": "9 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/agathaallalong_lob_crd_02.jpg",
+        "link": "https://www.disneyplus.com/series/agatha-all-along/6Nf0RIVHbJnh"
+    },
+    {
+        "title": "Deadpool & Wolverine",
+        "release_date": "2024-07-25T00:00:00Z",
+        "runtime": "2h 8m",
+        "poster": "https://cdn.marvel.com/content/1x/deadpoolandwolverine_lob_crd_03.jpg",
+        "link": "https://www.disneyplus.com/movies/deadpool-wolverine/4TQTHo9Qto2m"
+    },
+    {
+        "title": "Marvel's Hit-Monkey Season 2",
+        "release_date": "2024-07-14T00:00:00Z",
+        "runtime": "10 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/marvelshitmonkeys2_lob_crd_01.jpg",
+        "link": ""
+    },
+    {
+        "title": "X-Men '97",
+        "release_date": "2024-03-20T00:00:00Z",
+        "runtime": "10 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/xmen97_lob_crd_02.jpg",
+        "link": "https://www.disneyplus.com/series/x-men-97/vc1XIz90ZNH5"
+    },
+    {
+        "title": "Echo",
+        "release_date": "2024-01-09T00:00:00Z",
+        "runtime": "5 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/echo_lob_crd_02.jpg",
+        "link": "https://www.disneyplus.com/series/details/4unBxmuv2B8B"
+    },
+    {
+        "title": "What If...? | Season 2",
+        "release_date": "2023-12-22T00:00:00Z",
+        "runtime": "9 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/whatifs2_lob_crd_02.jpg",
+        "link": "https://www.disneyplus.com/series/details/7672ZVj1ZxU9"
+    },
+    {
+        "title": "The Marvels",
+        "release_date": "2023-11-10T00:00:00Z",
+        "runtime": "1h 45m",
+        "poster": "https://cdn.marvel.com/content/1x/themarvels_lob_crd_05.jpg",
+        "link": "https://www.disneyplus.com/movies/the-marvels/3sAcYG9CeWFw"
+    },
+    {
+        "title": "LEGO Marvel Avengers: Code Red",
+        "release_date": "2023-10-26T00:00:00Z",
+        "runtime": "0 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/legomarvelavengerscodered_lob_crd_01.jpg",
+        "link": "https://www.disneyplus.com/movies/lego-marvel-avengers-code-red/5lpdhc4RUbRG"
+    },
+    {
+        "title": "I Am Groot | Season 2",
+        "release_date": "2023-09-05T00:00:00Z",
+        "runtime": "5 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/iamgroots2_lob_crd_01.jpg",
+        "link": "https://www.disneyplus.com/series/i-am-groot/3FfVmffm1ijj"
+    },
+    {
+        "title": "Secret Invasion",
+        "release_date": "2023-06-20T00:00:00Z",
+        "runtime": "6 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/secretinvasion_lob_crd_04.jpg",
+        "link": "https://www.disneyplus.com/series/secret-invasion/3iHQtD1BDpgN"
+    },
+    {
+        "title": "Stan Lee",
+        "release_date": "2023-06-15T00:00:00Z",
+        "runtime": "28 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/stanlee_lob_crd_01.jpg",
+        "link": "https://www.disneyplus.com/movies/stan-lee/2rcOdxbFJSzw"
+    },
+    {
+        "title": "Guardians of the Galaxy Vol. 3",
+        "release_date": "2023-05-04T00:00:00Z",
+        "runtime": "2h 30m",
+        "poster": "https://cdn.marvel.com/content/1x/guardiansofthegalaxyvolume3_lob_crd_03.jpg",
+        "link": "https://www.disneyplus.com/movies/guardians-of-the-galaxy-vol-3/1tmc3nPw04S2"
+    },
+    {
+        "title": "MPower",
+        "release_date": "2023-03-08T00:00:00Z",
+        "runtime": "4 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/mpower_lob_crd_02.jpg",
+        "link": "https://www.disneyplus.com/series/mpower/4NRWwrDEO3Uy"
+    },
+    {
+        "title": "Voices Rising: The Music of Wakanda Forever",
+        "release_date": "2023-02-28T00:00:00Z",
+        "runtime": "3 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/voicesrisingwf_lob_crd_01.jpg",
+        "link": "https://www.disneyplus.com/series/voices-rising-the-music-of-wakanda-forever/4yiNiKQxkcV6"
+    },
+    {
+        "title": "Ant-Man and The Wasp: Quantumania",
+        "release_date": "2023-02-17T00:00:00Z",
+        "runtime": "2h 5m",
+        "poster": "https://cdn.marvel.com/content/1x/antmanandthewaspquantumania_lob_crd_03.jpg",
+        "link": "https://www.disneyplus.com/movies/ant-man-and-the-wasp-quantumania/7OLRMMgd1vkx"
+    },
+    {
+        "title": "Marvel's Moon Girl and Devil Dinosaur",
+        "release_date": "2023-02-10T00:00:00Z",
+        "runtime": "40 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/moongirlanddevildinosaur_lob_crd_03.jpg",
+        "link": "https://www.disneyplus.com/series/moon-girl-and-devil-dinosaur/35eKzlQnJk2i"
+    },
+    {
+        "title": "The Guardians of the Galaxy Holiday Special",
+        "release_date": "2022-11-25T00:00:00Z",
+        "runtime": "0 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/theguardiansofthegalaxyholidayspecial_lob_crd_02.jpg",
+        "link": ""
+    },
+    {
+        "title": "Black Panther: Wakanda Forever",
+        "release_date": "2022-11-11T00:00:00Z",
+        "runtime": "2h 42m",
+        "poster": "https://cdn.marvel.com/content/1x/blackpantherwakandaforever_lob_crd_06.jpg",
+        "link": "https://www.disneyplus.com/movies/black-panther-wakanda-forever/7MAONYZ92wDT"
+    },
+    {
+        "title": "Werewolf By Night",
+        "release_date": "2022-10-06T00:00:00Z",
+        "runtime": "0 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/werewolfbynight_lob_crd_01.jpg",
+        "link": "https://www.disneyplus.com/movies/werewolf-by-night/J1sCDfT3MaDl"
+    },
+    {
+        "title": "She-Hulk: Attorney-at-Law",
+        "release_date": "2022-08-17T00:00:00Z",
+        "runtime": "9 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/shehulk_lob_crd_04.jpg",
+        "link": "https://www.disneyplus.com/series/she-hulk-attorney-at-law/gPwaYusKqRQh"
+    },
+    {
+        "title": "I Am Groot | Season 1",
+        "release_date": "2022-08-09T00:00:00Z",
+        "runtime": "10 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/iamgroot_lob_crd_04.jpg",
+        "link": "https://www.disneyplus.com/series/i-am-groot/3FfVmffm1ijj"
+    },
+    {
+        "title": "Thor: Love and Thunder",
+        "release_date": "2022-07-07T00:00:00Z",
+        "runtime": "1h 59m",
+        "poster": "https://cdn.marvel.com/content/1x/thorloveandthunder_lob_crd_04.jpg",
+        "link": "https://www.disneyplus.com/movies/thor-love-and-thunder/3htR8mRAZMoT"
+    },
+    {
+        "title": "Ms. Marvel",
+        "release_date": "2022-06-07T00:00:00Z",
+        "runtime": "6 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/msmarvel_lob_crd_04.jpg",
+        "link": "https://www.disneyplus.com/series/ms-marvel/45BsikoMcOOo"
+    },
+    {
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "release_date": "2022-05-05T00:00:00Z",
+        "runtime": "2h 6m",
+        "poster": "https://cdn.marvel.com/content/1x/doctorstrangeinthemultiverseofmadness_lob_crd_02_3.jpg",
+        "link": "https://www.disneyplus.com/movies/doctor-strange-in-the-multiverse-of-madness/27EiqSW4jIyH"
+    },
+    {
+        "title": "Moon Knight",
+        "release_date": "2022-03-29T00:00:00Z",
+        "runtime": "6 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/moonknight_lob_crd_05.jpg",
+        "link": "https://www.disneyplus.com/series/moon-knight/4S3oOF1knocS"
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "release_date": "2021-12-17T00:00:00Z",
+        "runtime": "2h 28m",
+        "poster": "https://cdn.marvel.com/content/1x/spider-mannowayhome_lob_crd_03.jpg",
+        "link": ""
+    },
+    {
+        "title": "Hawkeye",
+        "release_date": "2021-11-24T00:00:00Z",
+        "runtime": "6 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/hawkeye_lob_crd_04.jpg",
+        "link": "https://www.disneyplus.com/series/hawkeye/11Zy8m9Dkj5l"
+    },
+    {
+        "title": "Marvel's Hit-Monkey Season 1",
+        "release_date": "2021-11-17T00:00:00Z",
+        "runtime": "20 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/hitmonkey_lob_crd_02.jpg",
+        "link": ""
+    },
+    {
+        "title": "Eternals",
+        "release_date": "2021-11-05T00:00:00Z",
+        "runtime": "2h 36m",
+        "poster": "https://cdn.marvel.com/content/1x/eternals_lob_crd_06.jpg",
+        "link": "https://www.disneyplus.com/movies/eternals/5cmhJAtkt6Jk"
+    },
+    {
+        "title": "Shang-Chi and The Legend of The Ten Rings",
+        "release_date": "2021-09-02T00:00:00Z",
+        "runtime": "2h 12m",
+        "poster": "https://cdn.marvel.com/content/1x/shangchi_lob_crd_07.jpg",
+        "link": "https://www.disneyplus.com/movies/shang-chi-and-the-legend-of-the-ten-rings/5GyV9sf9Y041"
+    },
+    {
+        "title": "What If...? | Season 1",
+        "release_date": "2021-08-10T00:00:00Z",
+        "runtime": "26 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/whatif_lob_crd_01.jpg",
+        "link": "https://www.disneyplus.com/series/what-if/7672ZVj1ZxU9"
+    },
+    {
+        "title": "Marvel's Spidey and his Amazing Friends",
+        "release_date": "2021-08-05T00:00:00Z",
+        "runtime": "168 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/spidey_lob_crd_01.jpg",
+        "link": ""
+    },
+    {
+        "title": "Black Widow",
+        "release_date": "2021-07-08T00:00:00Z",
+        "runtime": "2h 14m",
+        "poster": "https://cdn.marvel.com/content/1x/blackwidow_lob_crd_06.jpg",
+        "link": "https://www.disneyplus.com/welcome/new-3"
+    },
+    {
+        "title": "Loki | Season 2",
+        "release_date": "2021-06-08T00:00:00Z",
+        "runtime": "6 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/lokis2_lob_crd_04.jpg",
+        "link": "https://www.disneyplus.com/series/loki/6pARMvILBGzF"
+    },
+    {
+        "title": "Loki | Season 1",
+        "release_date": "2021-06-08T00:00:00Z",
+        "runtime": "12 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/lokis2_lob_crd_04.jpg",
+        "link": "https://www.disneyplus.com/series/loki/6pARMvILBGzF"
+    },
+    {
+        "title": "Marvel's M.O.D.O.K.",
+        "release_date": "2021-05-20T00:00:00Z",
+        "runtime": "10 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/modok_lob_crd-02_1.jpg",
+        "link": ""
+    },
+    {
+        "title": "The Falcon and The Winter Soldier",
+        "release_date": "2021-03-19T00:00:00Z",
+        "runtime": "6 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/falcws_lob_crd_03.jpg",
+        "link": "https://www.disneyplus.com/series/the-falcon-and-the-winter-soldier/4gglDBMx8icA/"
+    },
+    {
+        "title": "Marvel Studios Assembled",
+        "release_date": "2021-03-12T00:00:00Z",
+        "runtime": "6 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/assembled_lob_crd-01.jpg",
+        "link": ""
+    },
+    {
+        "title": "Marvel's Behind the Mask",
+        "release_date": "2021-02-12T00:00:00Z",
+        "runtime": "23 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/behindthemask_lob_crd_02.jpg",
+        "link": ""
+    },
+    {
+        "title": "WandaVision",
+        "release_date": "2021-01-15T00:00:00Z",
+        "runtime": "9 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/wandavision_lob_crd_06.jpg",
+        "link": "https://www.disneyplus.com/series/wandavision/4SrN28ZjDLwH/"
+    },
+    {
+        "title": "Marvel Studios: Legends",
+        "release_date": "2021-01-08T00:00:00Z",
+        "runtime": "46 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/legends_lob_crd_01_0.jpg",
+        "link": ""
+    },
+    {
+        "title": "Marvel's 616",
+        "release_date": "2020-11-20T00:00:00Z",
+        "runtime": "8 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/marvel616_lob_crd_02.jpg",
+        "link": "https://www.disneyplus.com/series/marvels-616/6m8RQWkU0DLX/"
+    },
+    {
+        "title": "Marvel's Agents of S.H.I.E.L.D.",
+        "release_date": "2020-05-26T00:00:00Z",
+        "runtime": "136 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/agentsofshields7_lob_crd_04.jpg",
+        "link": "https://www.disneyplus.com/series/agents-of-shield/2UT4VQrwpVgi"
+    },
+    {
+        "title": "Marvel's Runaways | Season 3",
+        "release_date": "2019-12-13T00:00:00Z",
+        "runtime": "10 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/runaways_s3_lob_crd_03_0.jpg",
+        "link": ""
+    },
+    {
+        "title": "Spider-Man: Far From Home",
+        "release_date": "2019-07-01T00:00:00Z",
+        "runtime": "2h 9m",
+        "poster": "https://cdn.marvel.com/content/1x/spider-manfarfromhome_lob_crd_04_0.jpg",
+        "link": ""
+    },
+    {
+        "title": "Legion | Season 3",
+        "release_date": "2019-06-23T00:00:00Z",
+        "runtime": "8 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/legion_lob_crd_04_0.jpg",
+        "link": ""
+    },
+    {
+        "title": "Marvel's Jessica Jones",
+        "release_date": "2019-06-13T00:00:00Z",
+        "runtime": "39 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/jessicajoness3_lob_crd_04.jpg",
+        "link": "https://www.disneyplus.com/series/jessica-jones/4LX4rNmINp5y"
+    },
+    {
+        "title": "X-Men: Dark Phoenix",
+        "release_date": "2019-06-06T00:00:00Z",
+        "runtime": "1h 54m",
+        "poster": "https://cdn.marvel.com/content/1x/darkphoenix_lob_crd_01_0.jpg",
+        "link": ""
+    },
+    {
+        "title": "Avengers: Endgame",
+        "release_date": "2019-04-25T00:00:00Z",
+        "runtime": "3h 1m",
+        "poster": "https://cdn.marvel.com/content/1x/avengersendgame_lob_crd_05.jpg",
+        "link": "https://www.disneyplus.com/movies/marvel-studios-avengers-endgame/aRbVJUb2h2Rf/"
+    },
+    {
+        "title": "Marvel's Cloak & Dagger | Season 2",
+        "release_date": "2019-04-03T00:00:00Z",
+        "runtime": "10 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/cloakanddagger_lob_crd_02.jpg",
+        "link": ""
+    },
+    {
+        "title": "Captain Marvel",
+        "release_date": "2019-03-08T00:00:00Z",
+        "runtime": "2h 4m",
+        "poster": "https://cdn.marvel.com/content/1x/captainmarvel_lob_crd_06.jpg",
+        "link": "https://www.disneyplus.com/movies/marvel-studios-captain-marvel/38xJGlLAQy9a/"
+    },
+    {
+        "title": "Marvel's The Punisher",
+        "release_date": "2019-01-18T00:00:00Z",
+        "runtime": "26 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/thepunishers2_lob_crd_04.jpg",
+        "link": "https://www.disneyplus.com/series/the-punisher/6JOZHgU6cBS3"
+    },
+    {
+        "title": "Marvel's Hero Project | Season 1",
+        "release_date": "2019-01-01T00:00:00Z",
+        "runtime": "20 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/marvelsheroproject_lob_crd_01.jpg",
+        "link": ""
+    },
+    {
+        "title": "Marvel's Runaways | Season 2",
+        "release_date": "2018-12-21T00:00:00Z",
+        "runtime": "13 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/runaways_lob_crd_02_0.jpg",
+        "link": ""
+    },
+    {
+        "title": "Marvel's Daredevil",
+        "release_date": "2018-10-18T00:00:00Z",
+        "runtime": "39 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/daredevilss3_lob_crd_02.jpg",
+        "link": "https://www.disneyplus.com/series/daredevil/5jKSWL7ZMg50"
+    },
+    {
+        "title": "Venom",
+        "release_date": "2018-10-04T00:00:00Z",
+        "runtime": "1h 52m",
+        "poster": "https://cdn.marvel.com/content/1x/venom_lob_crd_01.jpg",
+        "link": "https://www.disneyplus.com/movies/venom/1w4uv4K4arER"
+    },
+    {
+        "title": "The Gifted | Season 2",
+        "release_date": "2018-09-24T00:00:00Z",
+        "runtime": "16 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/thegifteds2_lob_crd_01_0.jpg",
+        "link": ""
+    },
+    {
+        "title": "Marvel's Iron Fist",
+        "release_date": "2018-09-06T00:00:00Z",
+        "runtime": "23 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/ironfists2_lob_crd_02.jpg",
+        "link": "https://www.disneyplus.com/series/iron-fist/24YlE6bSZy6E"
+    },
+    {
+        "title": "Ant-Man and The Wasp",
+        "release_date": "2018-07-05T00:00:00Z",
+        "runtime": "1h 59m",
+        "poster": "https://cdn.marvel.com/content/1x/ant-manthewasp_lob_crd_01_0.jpg",
+        "link": ""
+    },
+    {
+        "title": "Marvel's Luke Cage",
+        "release_date": "2018-06-21T00:00:00Z",
+        "runtime": "26 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/lukecages2_lob_crd_03.jpg",
+        "link": "https://www.disneyplus.com/series/luke-cage/1L458elR85KN"
+    },
+    {
+        "title": "Marvel's Cloak & Dagger | Season 1",
+        "release_date": "2018-06-06T00:00:00Z",
+        "runtime": "20 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/cloakanddagger_lob_crd_01_0.jpg",
+        "link": ""
+    },
+    {
+        "title": "Deadpool 2",
+        "release_date": "2018-05-17T00:00:00Z",
+        "runtime": "2h 0m",
+        "poster": "https://cdn.marvel.com/content/1x/deadpool2_lob_crd_02.jpg",
+        "link": "https://www.disneyplus.com/movies/deadpool-2/LSuXSQ3S5mxU"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "release_date": "2018-04-26T00:00:00Z",
+        "runtime": "2h 29m",
+        "poster": "https://cdn.marvel.com/content/1x/avengersinfinitywar_lob_crd_02.jpg",
+        "link": ""
+    },
+    {
+        "title": "Legion | Season 2",
+        "release_date": "2018-04-02T00:00:00Z",
+        "runtime": "11 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/legion_lob_crd_02.jpg",
+        "link": ""
+    },
+    {
+        "title": "Black Panther",
+        "release_date": "2018-02-16T00:00:00Z",
+        "runtime": "2h 15m",
+        "poster": "https://cdn.marvel.com/content/1x/blackpanther_lob_crd_01_5.jpg",
+        "link": "https://www.disneyplus.com/movies/marvel-studios-black-panther/1GuXuYPj99Ke/"
+    },
+    {
+        "title": "Marvel's Avengers",
+        "release_date": "2018-01-01T00:00:00Z",
+        "runtime": "39 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/animatedavengers_lob_crd_02_0.jpg",
+        "link": ""
+    },
+    {
+        "title": "Marvel's Guardians of the Galaxy",
+        "release_date": "2018-01-01T00:00:00Z",
+        "runtime": "77 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/animatedgotg_lob_crd_01_0.jpg",
+        "link": ""
+    },
+    {
+        "title": "Marvel Rising",
+        "release_date": "2018-01-01T00:00:00Z",
+        "runtime": "12 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/animatedmarvelrising_lob_crd_01_0.jpg",
+        "link": ""
+    },
+    {
+        "title": "Marvel's Spider-Man",
+        "release_date": "2018-01-01T00:00:00Z",
+        "runtime": "57 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/animatedspider-man_lob_crd_01_0.jpg",
+        "link": ""
+    },
+    {
+        "title": "Marvel's Runaways | Season 1",
+        "release_date": "2017-11-21T00:00:00Z",
+        "runtime": "33 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/runaways_lob_crd_01_0.jpg",
+        "link": ""
+    },
+    {
+        "title": "Thor: Ragnarok",
+        "release_date": "2017-11-03T00:00:00Z",
+        "runtime": "2h 11m",
+        "poster": "https://cdn.marvel.com/content/1x/thorragnarok_lob_crd_03_0.jpg",
+        "link": "https://www.disneyplus.com/movies/marvel-studios-thor-ragnarok/3XqAT8UV8ojS/"
+    },
+    {
+        "title": "Marvel's Inhumans",
+        "release_date": "2017-09-28T00:00:00Z",
+        "runtime": "8 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/inhumanss1_lob_crd_02.jpg",
+        "link": "https://www.disneyplus.com/series/inhumans/6VZXWp9jaYsT"
+    },
+    {
+        "title": "Marvel's The Defenders",
+        "release_date": "2017-08-17T00:00:00Z",
+        "runtime": "8 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/defenderss1_lob_crd_03.jpg",
+        "link": "https://www.disneyplus.com/series/the-defenders/1vLuQyD9nTYk"
+    },
+    {
+        "title": "Spider-Man: Homecoming",
+        "release_date": "2017-07-06T00:00:00Z",
+        "runtime": "2h 13m",
+        "poster": "https://cdn.marvel.com/content/1x/spider-manhomecoming_lob_crd_02.jpg",
+        "link": "https://www.disneyplus.com/movies/spider-man-homecoming/4cLMEzWGqQaG"
+    },
+    {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "release_date": "2017-05-04T00:00:00Z",
+        "runtime": "2h 17m",
+        "poster": "https://cdn.marvel.com/content/1x/guardiansofthegalaxyvol.2_lob_crd_01_0.jpg",
+        "link": "https://www.disneyplus.com/movies/marvel-studios-guardians-of-the-galaxy-vol-2/ZdRX4mMbp1gM/"
+    },
+    {
+        "title": "Logan",
+        "release_date": "2017-03-03T00:00:00Z",
+        "runtime": "2h 17m",
+        "poster": "https://cdn.marvel.com/content/1x/logan_lob_crd_02.jpg",
+        "link": "https://www.disneyplus.com/movies/logan/4BPdGjuoQAvT"
+    },
+    {
+        "title": "Legion | Season 1",
+        "release_date": "2017-02-08T00:00:00Z",
+        "runtime": "27 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/legion_lob_crd_01_4.jpg",
+        "link": ""
+    },
+    {
+        "title": "Doctor Strange",
+        "release_date": "2016-11-04T00:00:00Z",
+        "runtime": "1h 55m",
+        "poster": "https://cdn.marvel.com/content/1x/doctorstrange_lob_crd_01_7.jpg",
+        "link": "https://www.disneyplus.com/movies/marvel-studios-doctor-strange/4GgMJ1aHKHA2/"
+    },
+    {
+        "title": "X-Men: Apocalypse",
+        "release_date": "2016-05-26T00:00:00Z",
+        "runtime": "2h 24m",
+        "poster": "https://cdn.marvel.com/content/1x/fox_x-menapocalypse_lob_crd_01_0.jpg",
+        "link": ""
+    },
+    {
+        "title": "Captain America: Civil War",
+        "release_date": "2016-05-05T00:00:00Z",
+        "runtime": "2h 27m",
+        "poster": "https://cdn.marvel.com/content/1x/captainamericacivilwar_lob_crd_01_10.jpg",
+        "link": ""
+    },
+    {
+        "title": "Deadpool",
+        "release_date": "2016-02-12T00:00:00Z",
+        "runtime": "1h 48m",
+        "poster": "https://cdn.marvel.com/content/1x/deadpool_lob_crd_02.jpg",
+        "link": "https://www.disneyplus.com/movies/deadpool/3Kh13Lrb0Pnv"
+    },
+    {
+        "title": "Marvel's Agent Carter",
+        "release_date": "2016-01-19T00:00:00Z",
+        "runtime": "18 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/agentcarters2_lob_crd_03.jpg",
+        "link": "https://www.disneyplus.com/series/agent-carter/3rh3uclvsNsT"
+    },
+    {
+        "title": "Ant-Man",
+        "release_date": "2015-07-16T00:00:00Z",
+        "runtime": "1h 57m",
+        "poster": "https://cdn.marvel.com/content/1x/ant-man_lob_crd_01_9.jpg",
+        "link": "https://www.disneyplus.com/movies/marvel-studios-ant-man/5c92KVf1zgUX/"
+    },
+    {
+        "title": "Avengers: Age of Ultron",
+        "release_date": "2015-04-30T00:00:00Z",
+        "runtime": "2h 21m",
+        "poster": "https://cdn.marvel.com/content/1x/avengersageofultron_lob_crd_03_0.jpg",
+        "link": "https://www.disneyplus.com/movies/marvel-studios-avengers-age-of-ultron/76IUxY0rNHzt/"
+    },
+    {
+        "title": "Guardians of the Galaxy",
+        "release_date": "2014-07-31T00:00:00Z",
+        "runtime": "2h 1m",
+        "poster": "https://cdn.marvel.com/content/1x/guardiansofthegalaxy_lob_crd_03_0.jpg",
+        "link": "https://www.disneyplus.com/movies/marvel-studios-guardians-of-the-galaxy/1S4WM9h3KRR6/"
+    },
+    {
+        "title": "X-Men: Days of Future Past",
+        "release_date": "2014-05-22T00:00:00Z",
+        "runtime": "2h 12m",
+        "poster": "https://cdn.marvel.com/content/1x/fox_x-mendaysoffuturepast_lob_crd_01_0.jpg",
+        "link": ""
+    },
+    {
+        "title": "Captain America: The Winter Soldier",
+        "release_date": "2014-04-03T00:00:00Z",
+        "runtime": "2h 16m",
+        "poster": "https://cdn.marvel.com/content/1x/captainamericathewintersoldier_lob_crd_01_2.jpg",
+        "link": ""
+    },
+    {
+        "title": "Thor: The Dark World",
+        "release_date": "2013-11-08T00:00:00Z",
+        "runtime": "1h 52m",
+        "poster": "https://cdn.marvel.com/content/1x/thorthedarkworld_lob_crd_02.jpg",
+        "link": "https://www.disneyplus.com/movies/marvel-studios-thor-the-dark-world/ZHk7aM5xTbW7/"
+    },
+    {
+        "title": "Iron Man 3",
+        "release_date": "2013-05-02T00:00:00Z",
+        "runtime": "2h 10m",
+        "poster": "https://cdn.marvel.com/content/1x/ironman3_lob_crd_01_11.jpg",
+        "link": "https://www.disneyplus.com/movies/marvel-studios-iron-man-3/3s4Ihq7P2c6e/"
+    },
+    {
+        "title": "The Amazing Spider-Man",
+        "release_date": "2012-07-02T00:00:00Z",
+        "runtime": "2h 16m",
+        "poster": "https://cdn.marvel.com/content/1x/theamazingspider-man_lob_crd_01.jpg",
+        "link": "https://www.disneyplus.com/movies/-/1XUNbIGBs7TO"
+    },
+    {
+        "title": "The Avengers",
+        "release_date": "2012-05-03T00:00:00Z",
+        "runtime": "2h 23m",
+        "poster": "https://cdn.marvel.com/content/1x/theavengers_lob_crd_03_0.jpg",
+        "link": "https://www.disneyplus.com/movies/marvel-studios-the-avengers/2h6PcHFDbsPy/"
+    },
+    {
+        "title": "Spider-Man 3",
+        "release_date": "2007-05-03T00:00:00Z",
+        "runtime": "2h 19m",
+        "poster": "https://cdn.marvel.com/content/1x/spider-man3_lob_crd_01.jpg",
+        "link": "https://www.disneyplus.com/movies/spider-man-3/4GJkhwLlLW4D"
+    },
+    {
+        "title": "Spider-Man 2",
+        "release_date": "2004-06-29T00:00:00Z",
+        "runtime": "2h 7m",
+        "poster": "https://cdn.marvel.com/content/1x/spider-man2_lob_crd_01.jpg",
+        "link": "https://www.disneyplus.com/movies/spider-man-2/1CNlLz5NUKU6"
+    },
+    {
+        "title": "Spider-Man",
+        "release_date": "2002-05-02T00:00:00Z",
+        "runtime": "2h 13m",
+        "poster": "https://cdn.marvel.com/content/1x/spider-man_lob_crd_01.jpg",
+        "link": "https://www.disneyplus.com/movies/spider-man/4q3uPuyBeCkw"
+    }
 ]

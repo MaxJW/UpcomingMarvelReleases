@@ -2,18 +2,42 @@
     import Timeline from './components/Timeline.svelte';
 </script>
 
-<div id="logo">
-    <h2>Upcoming</h2>
-    <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/2560px-Marvel_Logo.svg.png"
-        alt="Marvel Logo"
-    />
-    <h2>Releases</h2>
-</div>
-<p id="subtitle">A small project maintained by <a href="https://maxwilson.co.uk/">Max Wilson</a></p>
-<Timeline />
+<main>
+    <header>
+        <div id="logo">
+            <h1>Upcoming</h1>
+            <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/2560px-Marvel_Logo.svg.png"
+                alt="Marvel Logo"
+            />
+            <h1>Releases</h1>
+        </div>
+        <p id="subtitle">
+            A small project maintained by <a href="https://maxwilson.co.uk/">Max Wilson</a>
+        </p>
+    </header>
+
+    <Timeline />
+
+    <footer>
+        <p>
+            This is an unofficial fan project. Marvel and all related characters are property of
+            Marvel Entertainment, LLC.
+        </p>
+    </footer>
+</main>
 
 <style>
+    main {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    header {
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
     #logo {
         display: flex;
         margin: auto;
@@ -32,10 +56,14 @@
         margin-right: 1em;
     }
 
+    #logo h1 {
+        margin: 0;
+        font-size: 2rem;
+    }
+
     #subtitle {
-        margin: auto;
+        margin: 0;
         width: 100%;
-        height: auto;
         margin-bottom: 40px;
         text-align: center;
         color: rgb(199, 199, 199);
@@ -45,9 +73,17 @@
         font-weight: bold;
         text-decoration: none;
         color: inherit;
+        transition: color 0.2s;
     }
 
     #subtitle a:hover {
         color: white;
+    }
+
+    footer {
+        margin-top: 60px;
+        text-align: center;
+        font-size: 0.8rem;
+        color: var(--text-muted);
     }
 </style>
