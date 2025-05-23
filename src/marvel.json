@@ -2,15 +2,29 @@
     {
         "title": "Blade",
         "release_date": null,
-        "runtime": "0",
+        "runtime": "2h 1m",
         "poster": "https://cdn.marvel.com/content/1x/blade_lob_crd_01_0.jpg",
         "link": ""
     },
     {
+        "title": "Daredevil: Born Again | Season 2",
+        "release_date": null,
+        "runtime": "0 episodes",
+        "poster": "https://cdn.marvel.com/content/1x/daredevilbornagain_lob_crd_02.jpg",
+        "link": ""
+    },
+    {
         "title": "Avengers: Secret Wars",
-        "release_date": "2027-05-06T00:00:00Z",
+        "release_date": "2027-12-17T00:00:00Z",
         "runtime": "0",
         "poster": "https://cdn.marvel.com/content/1x/avengerssecretwars_lob_crd_02.jpg",
+        "link": ""
+    },
+    {
+        "title": "Avengers: Doomsday",
+        "release_date": "2026-12-18T00:00:00Z",
+        "runtime": "0",
+        "poster": "https://cdn.marvel.com/content/1x/avengersdoomsday_lob_crd_01.jpg",
         "link": ""
     },
     {
@@ -18,13 +32,6 @@
         "release_date": "2026-07-30T00:00:00Z",
         "runtime": "0",
         "poster": "https://cdn.marvel.com/content/1x/spidermanbrandnewday_lob_crd_01.jpg",
-        "link": ""
-    },
-    {
-        "title": "Avengers: Doomsday",
-        "release_date": "2026-04-30T00:00:00Z",
-        "runtime": "0",
-        "poster": "https://cdn.marvel.com/content/1x/avengersdoomsday_lob_crd_01.jpg",
         "link": ""
     },
     {
@@ -59,7 +66,7 @@
         "title": "Ironheart",
         "release_date": "2025-06-23T00:00:00Z",
         "runtime": "0 episodes",
-        "poster": "https://cdn.marvel.com/content/1x/ironheart_lob_crd_03.jpg",
+        "poster": "https://cdn.marvel.com/content/1x/ironheart_lob_crd_04.jpg",
         "link": ""
     },
     {
@@ -70,7 +77,7 @@
         "link": ""
     },
     {
-        "title": "Daredevil: Born Again",
+        "title": "Daredevil: Born Again | Season 1",
         "release_date": "2025-03-04T00:00:00Z",
         "runtime": "9 episodes",
         "poster": "https://cdn.marvel.com/content/1x/daredevilbornagain_lob_crd_03.jpg",
@@ -765,7 +772,7 @@
     {
         "title": "Spider-Man",
         "release_date": "2002-05-02T00:00:00Z",
-        "runtime": "2h 13m",
+        "runtime": "2h 1m",
         "poster": "https://cdn.marvel.com/content/1x/spider-man_lob_crd_01.jpg",
         "link": "https://www.disneyplus.com/movies/spider-man/4q3uPuyBeCkw"
     }
