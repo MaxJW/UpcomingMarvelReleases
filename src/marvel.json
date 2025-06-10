@@ -58,7 +58,7 @@
     {
         "title": "The Fantastic Four: First Steps",
         "release_date": "2025-07-24T00:00:00Z",
-        "runtime": "0",
+        "runtime": "2h 10m",
         "poster": "https://cdn.marvel.com/content/1x/thefantasticfourfirststeps_lob_crd_03.jpg",
         "link": ""
     },
@@ -709,7 +709,7 @@
     {
         "title": "Guardians of the Galaxy",
         "release_date": "2014-07-31T00:00:00Z",
-        "runtime": "2h 1m",
+        "runtime": "2h 17m",
         "poster": "https://cdn.marvel.com/content/1x/guardiansofthegalaxy_lob_crd_03_0.jpg",
         "link": "https://www.disneyplus.com/movies/marvel-studios-guardians-of-the-galaxy/1S4WM9h3KRR6/"
     },
@@ -772,7 +772,7 @@
     {
         "title": "Spider-Man",
         "release_date": "2002-05-02T00:00:00Z",
-        "runtime": "2h 1m",
+        "runtime": "2h 13m",
         "poster": "https://cdn.marvel.com/content/1x/spider-man_lob_crd_01.jpg",
         "link": "https://www.disneyplus.com/movies/spider-man/4q3uPuyBeCkw"
     }
